@@ -1,0 +1,24 @@
+---
+title: "Our goals"
+image: fish_detected.png
+about: 
+  template: jolla
+  image-shape: round # rounded, rectangle
+  image-width: 23em
+
+---
+
+
+Our specific goals are to:
+
+1)	build upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;
+
+2)	make artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;
+
+3)	build a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;
+
+4)	explore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);
+
+5)	increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners.
+
+

@@ -1,0 +1,12 @@
+---
+title: "Who are we"
+image: fish_detected.png
+about: 
+  template: jolla
+  image-shape: round # rounded, rectangle
+  image-width: 23em
+
+---
+
+
+We are...
