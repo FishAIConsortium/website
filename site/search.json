@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fish-AIM",
+    "section": "",
+    "text": "The Artificial Intelligence for Fish Monitoring Consortium (FISH-AIM) is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "build upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners."
+  },
+  {
+    "objectID": "our goals.html",
+    "href": "our goals.html",
+    "title": "Our goals",
+    "section": "",
+    "text": "build upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners."
+  },
+  {
+    "objectID": "who are we.html",
+    "href": "who are we.html",
+    "title": "Who are we",
+    "section": "",
+    "text": "We are…"
+  }
+]
