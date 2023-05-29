@@ -11,7 +11,7 @@ about:
     - text: Twitter
       href: https://twitter.com/
     - text: GitHub
-      href: https://github.com/FishAIConsortium/website
+      href: https://github.com/FishAIConsortium
     - text: Email
       href: fishaiconsortium@gmail.com
 ---
