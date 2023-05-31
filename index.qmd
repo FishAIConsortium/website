@@ -3,11 +3,9 @@ title: "Fish-AIM"
 image: fish_detected.png
 about: 
   template: jolla
-  image-shape: round
-  image-width: 23em
+  image-shape: rectangle
+  image-width: 25em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/
     - text: Twitter
       href: https://twitter.com/
     - text: GitHub

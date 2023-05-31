@@ -4,7 +4,7 @@ image: sardine.jpg
 about: 
   template: jolla
   image-shape: round # rounded, rectangle
-  image-width: 25em
+  image-width: 20em
 
 ---
 
