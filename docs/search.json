@@ -11,13 +11,20 @@
     "href": "who are we.html",
     "title": "Who are we",
     "section": "",
-    "text": "We are…"
+    "text": "(In progress)"
   },
   {
     "objectID": "our goals.html",
     "href": "our goals.html",
     "title": "Our goals",
     "section": "",
-    "text": "build upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners."
+    "text": "Our specific goals are to:\n\nbuild upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "(In progress)"
   }
 ]
