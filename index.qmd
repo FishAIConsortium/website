@@ -1,5 +1,5 @@
 ---
-title: "Fish-AIM"
+title: "Fish AI Consortium"
 image: fish_detected.png
 about: 
   template: jolla
@@ -14,4 +14,4 @@ about:
       href: fishaiconsortium@gmail.com
 ---
 
-The Artificial Intelligence for Fish Monitoring Consortium (FISH-AIM) is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
+The Artificial Intelligence for Fish Monitoring Consortium is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
