@@ -1,12 +1,11 @@
 ---
 title: "Who are we"
-image: fish_detected.png
+image: sardine.jpg
 about: 
   template: jolla
   image-shape: round # rounded, rectangle
-  image-width: 23em
+  image-width: 25em
 
 ---
 
 
-We are...
