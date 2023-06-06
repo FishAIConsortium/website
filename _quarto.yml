@@ -6,10 +6,8 @@ website:
   title: "Fish AI Consortium"
   navbar:
     left:
-      - href: our goals.qmd
-        text: Our goals
-      - href: who are we.qmd
-        text: Who are we
+      - href: blog.qmd
+        text: Blog
       - href: resources.qmd
         text: Resources
 

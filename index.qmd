@@ -12,7 +12,10 @@ about:
       href: fishaiconsortium@gmail.com
 ---
 
+|
+|
 The Artificial Intelligence for Fish Monitoring Consortium is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
+|
 
 
 # Our goals
@@ -30,6 +33,7 @@ Our specific goals are to:
 4)	explore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);
 
 5)	increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners.
+
 
 
 # Who we are
