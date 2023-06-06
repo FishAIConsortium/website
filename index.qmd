@@ -12,7 +12,7 @@ about:
       href: fishaiconsortium@gmail.com
 ---
 
-The Fish AI Consortium is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
+The Artificial Intelligence for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
 
 
 
