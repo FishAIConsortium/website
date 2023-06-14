@@ -16,28 +16,33 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 
 # Our goals
 
-1)  build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
+1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
 
-2)  make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
+2)  Make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
 
-3)  build a bank of expert identified fish images which can be used to develop or improve AI models
+3)  Build a bank of expert identified fish images which can be used to develop or improve AI models
 
-4)  explore approaches to combine existing fish species identification models to build larger, global models
+4)  Explore approaches to combine existing fish species identification models to build larger, global models
 
-5)  increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
+5)  Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
 
-![](docs/perch.jpg){width="60%" fig-align="center"}
+![](docs/perch.jpg){fig-align="center" width="54%"}
 
 # How to contribute
 
-1)  Share expertise on model development
-2)  Help with expert fish photo identification
-3)  Contribute photos of fish
-4)  Collaborate on building global models
-5)  Help to test and improve the tools for user friendly applications
-6)  and other ways as well. Just contact us
+-   Share expertise on model development
 
-![](docs/sardine.jpg){width="50%" fig-align="center"}
+-   Help with expert fish photo identification
+
+-   Contribute photos of fish
+
+-   Collaborate on building global models
+
+-   Help to test and improve the tools for user friendly applications
+
+... and any other ways you suggest. Just contact us
+
+![](docs/sardine.jpg){fig-align="center" width="43%"}
 
 # Who we are
 
@@ -77,4 +82,4 @@ FAO
 
 # Contact us
 
-If you would like to learn more about our work or join the consortium, please contact us at fishaiconsortium\@gmail.com or info\@fishsizeproject.org
+If you would like to learn more about our work or join the consortium, please contact us at *fishaiconsortium\@gmail.com* or *info\@fishsizeproject.org*

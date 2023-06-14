@@ -10,6 +10,8 @@ title: "Resources"
 
 [List of Marine/freshwater images](https://lila.science/otherdatasets#images-marine)
 
+![](docs/pike.jpg){width="50%" fig-align="center"}
+
 ## Publicly available models
 
 [*MegaFishDetector v0*](https://github.com/warplab/megafishdetector/blob/main/MODEL_ZOO.md)
@@ -19,9 +21,6 @@ General purpose detector of fish shapes in images
 [KakaduFishAI](https://github.com/ajansenn/KakaduFishAI)
 
 Multi-class detector for Australian fish
-
-![](docs/pike.jpg){width="50%" fig-align="center"}
-
 
 ## Training resources
 
@@ -35,6 +34,8 @@ In this online course you will learn about:
 4.  how to build an image classification model with your own or example data
 
 The course uses freely available libraries and computing resources on Google Colaboratory
+
+![](docs/anglerPhone.jpg){width="50%" fig-align="center"}
 
 ## Publications
 
