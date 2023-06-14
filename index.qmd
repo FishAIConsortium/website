@@ -37,7 +37,7 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 5)  Help to test and improve the tools for user friendly applications
 6)  and other ways as well. Just contact us
 
-![](docs/grayling.jpg){width="50%" fig-align="center"}
+![](docs/sardine.jpg){width="50%" fig-align="center"}
 
 # Who we are
 
