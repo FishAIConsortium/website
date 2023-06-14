@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fish AI Consortium",
+    "title": "Our goals",
     "section": "",
-    "text": "Our goals\nOur specific goals are to:\n(In progress)\n\nbuild upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners.\n\n\n\nWho we are\n(In progress)"
+    "text": "The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.\n\nOur goals\n\nbuild upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences\nmake artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training\nbuild a bank of expert identified fish images which can be used to develop or improve AI models\nexplore approaches to combine existing fish species identification models to build larger, global models\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.\n\n\n\n\n\n\n\n\nHow to contribute\n\nShare expertise on model development\nHelp with expert fish photo identification\nContribute photos of fish\nCollaborate on building global models\nHelp to test and improve the tools for user friendly applications\nand other ways as well. Just contact us\n\n\n\n\n\n\n\n\nWho we are\nUniversity of Tasmania (Australia)\nNature Research Center (Lithuania)\nUniversity of Coimbra (Portugal)\nUnited States Geological Survey\nGoogle AI for Nature and Society\nColorado State University (USA)\nWild Me\nUniversity of Virginia (USA)\nVIMS (USA)\nNOAA (USA)\nAeria.ai\nDanish Technical University (Denmark)\nFishven\nGotOne fishing app\nAZTI, Sustainable Fishing Technologies\nAngler’s Atlas app (Canada)\nFAO\n\n\nContact us\nIf you would like to learn more about our work or join the consortium, please contact us at fishaiconsortium@gmail.com or info@fishsizeproject.org"
   },
   {
     "objectID": "who are we.html",
@@ -25,7 +25,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "(In progress)"
+    "text": "NOAA Puget Sound Nearshore Fish 2017-2018\n77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images"
   },
   {
     "objectID": "blog.html",
@@ -33,5 +33,26 @@
     "title": "Blog",
     "section": "",
     "text": "(In progress)"
+  },
+  {
+    "objectID": "resources.html#publicly-available-models",
+    "href": "resources.html#publicly-available-models",
+    "title": "Resources",
+    "section": "Publicly available models",
+    "text": "Publicly available models\nMegaFishDetector v0\nGeneral purpose detector of fish shapes in images\nKakaduFishAI\nMulti-class detector for Australian fish"
+  },
+  {
+    "objectID": "resources.html#training-resources",
+    "href": "resources.html#training-resources",
+    "title": "Resources",
+    "section": "Training resources",
+    "text": "Training resources\nMachine learning based image collection, annotation and classification\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "Resources",
+    "section": "Publications",
+    "text": "Publications\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification (Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte) Sustainability 14 (21), 14324\nPreprint: A machine learning based image classification method to estimate fish sizes from images without a specified reference object (Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte) bioRxiv"
   }
 ]
