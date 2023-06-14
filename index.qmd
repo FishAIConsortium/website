@@ -8,33 +8,73 @@ about:
   links:
     - text: GitHub
       href: https://github.com/FishAIConsortium
-    - text: Email
-      href: fishaiconsortium@gmail.com
+   # - text: Email
+   #   href: fishaiconsortium@gmail.com
 ---
 
-The Artificial Intelligence for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in using artificial intelligence tools to better understand fish population dynamics, ecology and conservation.
-
-
+The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.
 
 # Our goals
 
-Our specific goals are to:
+1)  build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
 
-*(In progress)*
+2)  make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
 
-1)	build upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;
+3)  build a bank of expert identified fish images which can be used to develop or improve AI models
 
-2)	make artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;
+4)  explore approaches to combine existing fish species identification models to build larger, global models
 
-3)	build a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;
+5)  increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
 
-4)	explore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);
+![](docs/perch.jpg){width="60%" fig-align="center"}
 
-5)	increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners.
+# How to contribute
 
+1)  Share expertise on model development
+2)  Help with expert fish photo identification
+3)  Contribute photos of fish
+4)  Collaborate on building global models
+5)  Help to test and improve the tools for user friendly applications
+6)  and other ways as well. Just contact us
 
+![](docs/grayling.jpg){width="50%" fig-align="center"}
 
 # Who we are
 
-*(In progress)*
+University of Tasmania (Australia)
 
+Nature Research Center (Lithuania)
+
+University of Coimbra (Portugal)
+
+United States Geological Survey
+
+Google AI for Nature and Society
+
+Colorado State University (USA)
+
+Wild Me
+
+University of Virginia (USA)
+
+VIMS (USA)
+
+NOAA (USA)
+
+Aeria.ai
+
+Danish Technical University (Denmark)
+
+Fishven
+
+GotOne fishing app
+
+AZTI, Sustainable Fishing Technologies
+
+Angler's Atlas app (Canada)
+
+FAO
+
+# Contact us
+
+If you would like to learn more about our work or join the consortium, please contact us at fishaiconsortium\@gmail.com or info\@fishsizeproject.org
