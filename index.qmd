@@ -58,7 +58,7 @@ Help to test and improve the tools for user friendly applications
 # Who we are
 
 
-![](docs/partners-map.html){fig-align="center" width="100%" height="100%"}
+![](docs/partners-map.html){fig-align="center" width=1000 height=500}
 
 University of Tasmania (Australia)
 
