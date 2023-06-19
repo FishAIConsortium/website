@@ -28,13 +28,25 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 
 5)  Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
 
-<p>
-</p>
-
-![](docs/perch.jpg){fig-align="center" width="54%"}
 
 <p>
 </p>
+
+# Who we are
+
+Fish AI Consortium involves a large group of people globally
+and is guided by a group of board members that includes world-renowned experts in the field of artificial intelligence,fish population management, ecology and conservation.
+
+![](docs/partners-map.html){fig-align="center" width=1000 height=500}
+
+
+<p>
+</p>
+
+# Supporters
+
+![](docs/supporters.jpg){fig-align="center" width="54%"}
+
 
 # How to contribute
 
@@ -53,17 +65,9 @@ Help to test and improve the tools for user friendly applications
 <p>
 </p>
 
-![](docs/sardine.jpg){fig-align="center" width="43%"}
-
-# Who we are
+![](docs/perch.jpg){fig-align="center" width="54%"}
 
 
-![](docs/partners-map.html){fig-align="center" width=1000 height=500}
-
-
-<p>
-
-</p>
 
 # Contact us
 
