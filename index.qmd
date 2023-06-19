@@ -1,10 +1,7 @@
 ---
 title: " "
-image: fish_detected.png
 about: 
   template: jolla
-  image-shape: rectangle
-  image-width: 25em
   links:
     - text: GitHub
       href: https://github.com/FishAIConsortium
@@ -13,6 +10,11 @@ about:
 ---
 
 The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.
+
+<p>
+</p>
+
+![](docs/fish_detected.png){fig-align="center" width="54%"}
 
 # Our goals
 
@@ -26,7 +28,13 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 
 5)  Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
 
+<p>
+</p>
+
 ![](docs/perch.jpg){fig-align="center" width="54%"}
+
+<p>
+</p>
 
 # How to contribute
 
@@ -41,6 +49,9 @@ Collaborate on building global models
 Help to test and improve the tools for user friendly applications
 
 ... and any other ways you suggest. Just contact us
+
+<p>
+</p>
 
 ![](docs/sardine.jpg){fig-align="center" width="43%"}
 
@@ -80,26 +91,14 @@ Angler's Atlas app (Canada)
 
 FAO
 
+<p>
+</p>
+
 # Contact us
 
 If you would like to learn more about our work or join the consortium, please contact us using the form below.
 
 
-## mailto
-
-<html>
-   <body>
-      <form action="mailto:fishaiconsortium@gmail.com" method="post" enctype="text/plain">
-          Name:<br><input type="text" name="sname"> <br>
-          Email:<br><input type="text" name="sname"> <br>
-          Message:<br><input type="text" name="ssubject"><br>
-         <input type="submit" value="Send">
-      </form>
-   </body>
-</html>
-
-
-## test
 
 <html>
    <body>
