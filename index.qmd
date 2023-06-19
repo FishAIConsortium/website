@@ -60,39 +60,7 @@ Help to test and improve the tools for user friendly applications
 
 ![](docs/partners-map.html){fig-align="center" width=1000 height=500}
 
-University of Tasmania (Australia)
 
-Nature Research Center (Lithuania)
-
-University of Coimbra (Portugal)
-
-United States Geological Survey
-
-Google AI for Nature and Society
-
-Colorado State University (USA)
-
-Wild Me
-
-University of Virginia (USA)
-
-VIMS (USA)
-
-NOAA (USA)
-
-Aeria.ai
-
-Danish Technical University (Denmark)
-
-Fishven
-
-GotOne fishing app
-
-AZTI, Sustainable Fishing Technologies
-
-Angler's Atlas app (Canada)
-
-FAO
 
 <p>
 </p>
