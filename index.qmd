@@ -61,8 +61,8 @@ Help to test and improve the tools for user friendly applications
 ![](docs/partners-map.html){fig-align="center" width=1000 height=500}
 
 
-
 <p>
+
 </p>
 
 # Contact us
