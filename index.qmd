@@ -30,15 +30,15 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 
 # How to contribute
 
--   Share expertise on model development
+Share expertise on model development
 
--   Help with expert fish photo identification
+Help with expert fish photo identification
 
--   Contribute photos of fish
+Contribute photos of fish
 
--   Collaborate on building global models
+Collaborate on building global models
 
--   Help to test and improve the tools for user friendly applications
+Help to test and improve the tools for user friendly applications
 
 ... and any other ways you suggest. Just contact us
 
@@ -82,4 +82,17 @@ FAO
 
 # Contact us
 
-If you would like to learn more about our work or join the consortium, please contact us at *fishaiconsortium\@gmail.com* or *info\@fishsizeproject.org*
+If you would like to learn more about our work or join the consortium, please contact us using the form below.
+
+
+
+<html>
+   <body>
+      <form action="mailto:fishaiconsortium@gmail.com" method="post" enctype="text/plain">
+          Name:<br><input type="text" name="sname"> <br>
+          Email:<br><input type="text" name="sname"> <br>
+          Message:<br><input type="text" name="ssubject"><br>
+         <input type="submit" value="Send">
+      </form>
+   </body>
+</html>
