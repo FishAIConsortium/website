@@ -85,6 +85,7 @@ FAO
 If you would like to learn more about our work or join the consortium, please contact us using the form below.
 
 
+## mailto
 
 <html>
    <body>
@@ -94,5 +95,20 @@ If you would like to learn more about our work or join the consortium, please co
           Message:<br><input type="text" name="ssubject"><br>
          <input type="submit" value="Send">
       </form>
+   </body>
+</html>
+
+
+## test
+
+<html>
+   <body>
+      <form action="https://public.herotofu.com/v1/53951c50-0e8e-11ee-a6b0-17653bd30bd3" method="post" accept-charset="UTF-8">
+         Name:<br><input type="text" name="sname"> <br>
+         Email:<br><input type="text" name="sname"> <br>
+         Message:<br><input type="text" name="ssubject"><br>
+         <input type="submit" value="Send" />
+            <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
+               <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
    </body>
 </html>
