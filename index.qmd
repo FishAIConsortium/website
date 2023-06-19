@@ -32,7 +32,7 @@ The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consort
 # Who we are
 
 Fish AI Consortium involves a large group of people globally
-and is guided by a group of board members that includes world-renowned experts in the field of artificial intelligence,fish population management, ecology and conservation.
+and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.
 
 ![](docs/partners-map.html){fig-align="center" width=1000 height=500}
 
