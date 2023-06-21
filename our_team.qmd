@@ -11,6 +11,18 @@ about:
 
 <br/><br/>
 
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Amanda Barney
+<br/><br/>
+Teem Fish Monitoring 
+
+:::
 
 ::: {layout-ncol=3}
 [![](photo.png){width=300}](https://discover.utas.edu.au/Asta.Audzijonyte)
@@ -46,10 +58,9 @@ University of Coimbra
 | 
 
 <br/><br/>
-Nathaniel "Than" Hitt
+Kim Friedman
 <br/><br/>
-U.S. Geological Survey
-Eastern Ecological Science Center
+FAO
 
 :::
 
@@ -61,11 +72,14 @@ Eastern Ecological Science Center
 | 
 
 <br/><br/>
-Steve Munch
+Lisa Kellogg
 <br/><br/>
-University of California, Santa Cruz
+Virginia Institute of Marine Science
 
 :::
+
+
+
 
 ::: {layout-ncol=3}
 
@@ -87,9 +101,10 @@ GotOne Media LLC
 | 
 
 <br/><br/>
-Lisa Kellogg
+Nathaniel "Than" Hitt
 <br/><br/>
-Virginia Institute of Marine Science
+U.S. Geological Survey
+Eastern Ecological Science Center
 
 :::
 
@@ -101,25 +116,12 @@ Virginia Institute of Marine Science
 | 
 
 <br/><br/>
-Kim Friedman
+Steve Munch
 <br/><br/>
-FAO
+University of California, Santa Cruz
 
 :::
 
-
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Amanda Barney
-<br/><br/>
-Teem Fish Monitoring 
-
-:::
 
 
 <br/><br/>
@@ -130,18 +132,6 @@ Teem Fish Monitoring
 <br/><br/>
 
 
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Eelke Folmer
-<br/><br/>
-Aeria
-
-:::
 
 ::: {layout-ncol=3}
 
@@ -176,49 +166,9 @@ Google AI for Nature and Society
 | 
 
 <br/><br/>
-Thor Veen
+Eelke Folmer
 <br/><br/>
 Aeria
-
-:::
-
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Yoichiro Kanno
-<br/><br/>
-Colorado State University
-
-:::
-
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Justas Dainys
-<br/><br/>
-Nature Research Centre
-
-:::
-
-
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Mark Sudul
-<br/><br/>
-Archipelago
 
 :::
 
@@ -235,18 +185,6 @@ Technical University of Denmark
 
 :::
 
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-<br/><br/>
-Raiana McKinney
-<br/><br/>
-The Pew Charitable Trusts
-
-:::
 
 ::: {layout-ncol=3}
 
@@ -255,23 +193,12 @@ The Pew Charitable Trusts
 | 
 
 <br/><br/>
-Noel Clark
+Iñaki Quincoces 
 <br/><br/>
-Colorado State University 
+AZTI
 
 :::
 
-::: {layout-ncol=3}
-
-[![](photo.png){width=300}](www.)
-
-| 
-
-Sebastian Uhlmann
-<br/><br/>
-Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB) 
-
-:::
 
 ::: {layout-ncol=3}
 
@@ -293,9 +220,35 @@ Ai.Fish
 | 
 
 <br/><br/>
-Tim Sartwell
+Justas Dainys
 <br/><br/>
-NOAA Fisheries
+Nature Research Centre
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Mark Sudul
+<br/><br/>
+Archipelago
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Noel Clark
+<br/><br/>
+Colorado State University 
 
 :::
 
@@ -307,9 +260,63 @@ NOAA Fisheries
 | 
 
 <br/><br/>
-Iñaki Quincoces 
+Raiana McKinney
 <br/><br/>
-AZTI
+The Pew Charitable Trusts
 
 :::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+Sebastian Uhlmann
+<br/><br/>
+Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB) 
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Thor Veen
+<br/><br/>
+Aeria
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Tim Sartwell
+<br/><br/>
+NOAA Fisheries
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Yoichiro Kanno
+<br/><br/>
+Colorado State University
+
+:::
+
 
