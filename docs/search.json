@@ -68,5 +68,40 @@
     "title": "Fish AI Consortium",
     "section": "test",
     "text": "test\n\nName:  Email:  Message: \n\n           <input type=\"text\" name=\"_gotcha\" tabindex=\"-1\" autocomplete=\"off\" />"
+  },
+  {
+    "objectID": "our_team.html",
+    "href": "our_team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Catarina Silva is a…"
+  },
+  {
+    "objectID": "our_team.html#general-members",
+    "href": "our_team.html#general-members",
+    "title": "Our Team",
+    "section": "General members",
+    "text": "General members\n\n\n\n\n\n\n\n\n\n\n\n Eelke Folmer  Aeria\n\n\n\n\n\n\n\n\n\n\n\n\n\n Ben Letcher  U.S. Geological Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\n Dan Morris  Google AI for Nature and Society\n\n\n\n\n\n\n\n\n\n\n\n\n\n Thor Veen  Aeria\n\n\n\n\n\n\n\n\n\n\n\n\n\n Yoichiro Kanno  Colorado State University"
+  },
+  {
+    "objectID": "our_team.html#board-members",
+    "href": "our_team.html#board-members",
+    "title": "Our Team",
+    "section": "Board members",
+    "text": "Board members\n\n\n\n\n\n\n\n\n\n\n\n Asta Audzijonyte  University of Tasmania Nature Research Centre\n\n\n\n\n\n\n\n\n\n\n\n\n\n Catarina Silva  University of Coimbra\n\n\n\n\n\n\n\n\n\n\n\n\n\n Nathaniel “Than” Hitt  U.S. Geological Survey Eastern Ecological Science Center\n\n\n\n\n\n\n\n\n\n\n\n\n\n Steve Munch  University of California, Santa Cruz"
+  },
+  {
+    "objectID": "our_team.html#first-column",
+    "href": "our_team.html#first-column",
+    "title": "Our Team",
+    "section": "First column",
+    "text": "First column"
+  },
+  {
+    "objectID": "our_team.html#second-column",
+    "href": "our_team.html#second-column",
+    "title": "Our Team",
+    "section": "Second column",
+    "text": "Second column\nAsta Audzijonyte\nCatarina Silva"
   }
 ]

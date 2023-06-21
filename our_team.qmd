@@ -1,0 +1,316 @@
+---
+title: "Our Team"
+about: 
+  template: solana
+---
+
+<br/><br/>
+
+## Board members
+
+
+<br/><br/>
+
+
+::: {layout-ncol=3}
+[![](photo.png){width=300}](https://discover.utas.edu.au/Asta.Audzijonyte)
+
+| 
+
+<br/><br/>
+Asta Audzijonyte
+<br/><br/>
+University of Tasmania, Nature Research Centre
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo_Catarina.png){width=300}](www.catarinasilva.weebly.com)
+
+| 
+
+<br/><br/>
+Catarina Silva
+<br/><br/>
+University of Coimbra 
+
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Nathaniel "Than" Hitt
+<br/><br/>
+U.S. Geological Survey
+Eastern Ecological Science Center
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Steve Munch
+<br/><br/>
+University of California, Santa Cruz
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Luyen Chou
+<br/><br/>
+GotOne Media LLC
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Lisa Kellogg
+<br/><br/>
+Virginia Institute of Marine Science
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Kim Friedman
+<br/><br/>
+FAO
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Amanda Barney
+<br/><br/>
+Teem Fish Monitoring 
+
+:::
+
+
+<br/><br/>
+
+
+## General members
+
+<br/><br/>
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Eelke Folmer
+<br/><br/>
+Aeria
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Ben Letcher
+<br/><br/>
+U.S. Geological Survey
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Dan Morris
+<br/><br/>
+Google AI for Nature and Society
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Thor Veen
+<br/><br/>
+Aeria
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Yoichiro Kanno
+<br/><br/>
+Colorado State University
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Justas Dainys
+<br/><br/>
+Nature Research Centre
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Mark Sudul
+<br/><br/>
+Archipelago
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Ercan Avsar
+<br/><br/>
+Technical University of Denmark
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Raiana McKinney
+<br/><br/>
+The Pew Charitable Trusts
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Noel Clark
+<br/><br/>
+Colorado State University 
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Sebastian Uhlmann
+<br/><br/>
+Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB) 
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Jimmy Freese
+<br/><br/>
+Ai.Fish
+
+:::
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Tim Sartwell
+<br/><br/>
+NOAA Fisheries
+
+:::
+
+
+::: {layout-ncol=3}
+
+[![](photo.png){width=300}](www.)
+
+| 
+
+<br/><br/>
+Iñaki Quincoces 
+<br/><br/>
+AZTI
+
+:::
+
