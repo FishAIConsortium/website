@@ -12,14 +12,14 @@ about:
 <p style="text-align: center; font-size: 20px">The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.</p>
 
 
-![](images/fish_detected.png){fig-align="center" width="60%"}
+![](images/fish_detected.png){fig-align="center" width="100%""}
 
 <br/><br/>
 
 <h1 style="text-align: center;">Our goals</h1>
 
 
-<p style="text-align: center;">1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
+<p style="text-align: center;font-size: 20px">1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
 
 2)  Make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
 
@@ -33,7 +33,7 @@ about:
 
 <h1 style="text-align: center;">Who are we</h1> 
 
-<p style="text-align: center;">Fish AI Consortium involves a large group of people globally
+<p style="text-align: center;font-size: 20px">Fish AI Consortium involves a large group of people globally
 and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.</p>
 
 ![](images/partners-map.html){fig-align="center" width=100%  height=400}
@@ -42,12 +42,12 @@ and is guided by a group of board members that includes world-renowned experts i
 
 <h1 style="text-align: center;">Supporters</h1> 
 
-![](images/supporters.jpg){fig-align="center" width="60%"}
+![](images/supporters.jpg){fig-align="center" width="100%"}
 
 
 <h1 style="text-align: center;">How to contribute</h1> 
 
-<p style="text-align: center;">Share expertise on model development
+<p style="text-align: center;font-size: 20px">Share expertise on model development
 
 Help with expert fish photo identification
 
@@ -60,14 +60,14 @@ Help to test and improve the tools for user friendly applications
 ... and any other ways you suggest. Just contact us.</p>
 
 
-![](images/perch.jpg){fig-align="center" width="60%"}
+![](images/perch.jpg){fig-align="center" width="100%"}
 
 
 <br/><br/>
 
 <h1 style="text-align: center;">Contact us</h1>
 
-<p style="text-align: center;">If you would like to learn more about our work or join the consortium, please contact us using the form below.</p>
+<p style="text-align: center;font-size: 20px">If you would like to learn more about our work or join the consortium, please contact us using the form below.</p>
 
 
 
