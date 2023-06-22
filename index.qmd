@@ -2,24 +2,19 @@
 title: " "
 about: 
   template: solana
-  # links:
-   # - text: GitHub
-   #   href: https://github.com/FishAIConsortium
-   # - text: Email
-   #   href: fishaiconsortium@gmail.com
 ---
 
 <p style="text-align: center; font-size: 20px">The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.</p>
 
 
-![](images/fish_detected.png){fig-align="center" width="100%""}
+![](images/fish_detected.png){fig-align="center" width="100%"}
 
 <br/><br/>
 
 <h1 style="text-align: center;">Our goals</h1>
 
 
-<p style="text-align: center;font-size: 20px">1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
+<p style="text-align: center; font-size: 20px">1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
 
 2)  Make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
 
@@ -47,17 +42,13 @@ and is guided by a group of board members that includes world-renowned experts i
 
 <h1 style="text-align: center;">How to contribute</h1> 
 
-<p style="text-align: center;font-size: 20px">Share expertise on model development
-
-Help with expert fish photo identification
-
-Contribute photos of fish
-
-Collaborate on building global models
-
-Help to test and improve the tools for user friendly applications
-
-... and any other ways you suggest. Just contact us.</p>
+<p style="text-align: center; font-size: 20px">
+- Share expertise on model development
+- Help with expert fish photo identification
+- Contribute photos of fish
+- Collaborate on building global models
+- Help to test and improve the tools for user friendly applications
+- ... and any other ways you suggest. Just contact us.</p>
 
 
 ![](images/perch.jpg){fig-align="center" width="100%"}
