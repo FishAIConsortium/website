@@ -7,7 +7,7 @@ about:
 <p style="text-align: center; font-size: 20px">The Artificial Intelligence (AI) for Fish Monitoring Consortium (Fish AI Consortium) is an international initiative that aims to bring together people with an interest in developing and using artificial intelligence tools to study fish population management, ecology and conservation.</p>
 
 
-![](images/fish_detected.png){fig-align="center" width="100%"}
+![](images/fish_detected.png){fig-align="center" width="70%"}
 
 <br/><br/>
 
@@ -37,7 +37,7 @@ and is guided by a group of board members that includes world-renowned experts i
 
 <h1 style="text-align: center;">Supporters</h1> 
 
-![](images/supporters.jpg){fig-align="center" width="100%"}
+![](images/supporters.jpg){fig-align="center" width="80%"}
 
 
 <h1 style="text-align: center;">How to contribute</h1> 
@@ -51,7 +51,7 @@ and is guided by a group of board members that includes world-renowned experts i
 - ... and any other ways you suggest. Just contact us.</p>
 
 
-![](images/perch.jpg){fig-align="center" width="100%"}
+![](images/perch.jpg){fig-align="center" width="80%"}
 
 
 <br/><br/>
