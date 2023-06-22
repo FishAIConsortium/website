@@ -13,7 +13,7 @@ about:
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -25,35 +25,36 @@ Teem Fish Monitoring
 :::
 
 ::: {layout-ncol=3}
-[![](photo.png){width=300}](https://discover.utas.edu.au/Asta.Audzijonyte)
-
-| 
+![](images/photo_Asta.png){width=300}
 
 <br/><br/>
-Asta Audzijonyte
+[Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte)
 <br/><br/>
 University of Tasmania, Nature Research Centre
+
+<br/><br/>
+ML models for citizen science and social media data, especially models for fish size determination
+
 :::
 
 
 ::: {layout-ncol=3}
 
-[![](photo_Catarina.png){width=300}](https://catarinasilva.weebly.com)
-
-| 
+![](images/photo_Catarina.png){width=300}
 
 <br/><br/>
-Catarina Silva
+[Catarina Silva](https://catarinasilva.weebly.com)
 <br/><br/>
 University of Coimbra 
 
-
+<br/><br/>
+ML models for automatic identification of species and sizes from images
 :::
 
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -67,7 +68,7 @@ FAO
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -83,7 +84,7 @@ Virginia Institute of Marine Science
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -96,7 +97,7 @@ GotOne Media LLC
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -111,7 +112,7 @@ Eastern Ecological Science Center
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -135,7 +136,7 @@ University of California, Santa Cruz
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -148,7 +149,7 @@ U.S. Geological Survey
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -161,7 +162,7 @@ Google AI for Nature and Society
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -174,7 +175,7 @@ Aeria
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -188,7 +189,7 @@ Technical University of Denmark
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -202,7 +203,7 @@ AZTI
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -215,7 +216,7 @@ Ai.Fish
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -228,7 +229,7 @@ Nature Research Centre
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -241,7 +242,7 @@ Archipelago
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -255,7 +256,7 @@ Colorado State University
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -269,7 +270,7 @@ The Pew Charitable Trusts
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -281,7 +282,7 @@ Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILV
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -295,7 +296,7 @@ Aeria
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
@@ -308,7 +309,7 @@ NOAA Fisheries
 
 ::: {layout-ncol=3}
 
-[![](photo.png){width=300}](www.)
+[![](images/photo.png){width=300}](www.)
 
 | 
 
