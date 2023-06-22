@@ -1,10 +1,10 @@
 ---
 title: " "
 about: 
-  template: jolla
-  links:
-    - text: GitHub
-      href: https://github.com/FishAIConsortium
+  template: solana
+  # links:
+   # - text: GitHub
+   #   href: https://github.com/FishAIConsortium
    # - text: Email
    #   href: fishaiconsortium@gmail.com
 ---
@@ -16,9 +16,10 @@ about:
 
 <br/><br/>
 
-# Our goals
+<h1 style="text-align: center;">Our goals</h1>
 
-1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
+
+<p style="text-align: center;">1)  Build upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences
 
 2)  Make artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training
 
@@ -26,7 +27,7 @@ about:
 
 4)  Explore approaches to combine existing fish species identification models to build larger, global models
 
-5)  Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
+5)  Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.</p>
 
 <br/><br/>
 
@@ -81,3 +82,6 @@ If you would like to learn more about our work or join the consortium, please co
                <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
    </body>
 </html>
+
+
+
