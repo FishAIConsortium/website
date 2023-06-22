@@ -31,23 +31,23 @@ about:
 
 <br/><br/>
 
-# Who we are
+<h1 style="text-align: center;">Who are we</h1> 
 
-Fish AI Consortium involves a large group of people globally
-and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.
+<p style="text-align: center;">Fish AI Consortium involves a large group of people globally
+and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.</p>
 
-![](images/partners-map.html){fig-align="center" width=1000 height=500}
+![](images/partners-map.html){fig-align="center" width=800 height=400}
 
 <br/><br/>
 
-# Supporters
+<h1 style="text-align: center;">Supporters</h1> 
 
 ![](images/supporters.jpg){fig-align="center" width="54%"}
 
 
-# How to contribute
+<h1 style="text-align: center;">How to contribute</h1> 
 
-Share expertise on model development
+<p style="text-align: center;">Share expertise on model development
 
 Help with expert fish photo identification
 
@@ -57,7 +57,7 @@ Collaborate on building global models
 
 Help to test and improve the tools for user friendly applications
 
-... and any other ways you suggest. Just contact us
+... and any other ways you suggest. Just contact us.</p>
 
 
 ![](images/perch.jpg){fig-align="center" width="54%"}
@@ -65,9 +65,9 @@ Help to test and improve the tools for user friendly applications
 
 <br/><br/>
 
-# Contact us
+<h1 style="text-align: center;">Contact us</h1>
 
-If you would like to learn more about our work or join the consortium, please contact us using the form below.
+<p style="text-align: center;">If you would like to learn more about our work or join the consortium, please contact us using the form below.</p>
 
 
 
