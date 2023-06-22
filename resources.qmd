@@ -10,7 +10,7 @@ title: "Resources"
 
 [List of Marine/freshwater images](https://lila.science/otherdatasets#images-marine)
 
-![](docs/pike.jpg){width="50%" fig-align="center"}
+![](images/pike.jpg){width="50%" fig-align="center"}
 
 ## Publicly available models
 
@@ -35,7 +35,7 @@ In this online course you will learn about:
 
 The course uses freely available libraries and computing resources on Google Colaboratory
 
-![](docs/anglerPhone.jpg){width="50%" fig-align="center"}
+![](images/anglerPhone.jpg){width="50%" fig-align="center"}
 
 ## Publications
 
