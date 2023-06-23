@@ -30,7 +30,7 @@ Teem Fish Monitoring
 <br/><br/>
 [Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte)
 <br/><br/>
-University of Tasmania, Nature Research Centre
+University of Tasmania (Australia) & Nature Research Centre (Lithuania)
 
 <br/><br/>
 ML models for citizen science and social media data, especially models for fish size determination

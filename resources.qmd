@@ -5,10 +5,12 @@ title: "Resources"
 ## Publicly available datasets
 
 [*NOAA Puget Sound Nearshore Fish 2017-2018*](https://lila.science/datasets/noaa-puget-sound-nearshore-fish)
-
-77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.
+- 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.
 
 [List of Marine/freshwater images](https://lila.science/otherdatasets#images-marine)
+
+[BRUVNet](https://www.bruvnet.org/)
+- An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research
 
 ![](images/pike.jpg){width="50%" fig-align="center"}
 
@@ -37,8 +39,12 @@ The course uses freely available libraries and computing resources on Google Col
 
 ![](images/anglerPhone.jpg){width="50%" fig-align="center"}
 
-## Publications
+## Scientific publications
 
 A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification (*Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*) [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
 
 **Preprint:** A machine learning based image classification method to estimate fish sizes from images without a specified reference object (*Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*) [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)
+
+## Media and other popular science 
+
+Story about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - [Citizen scientists, AI and cloud bond to boost billabong health in the Top End](https://news.microsoft.com/en-au/features/citizen-scientists-ai-and-cloud-bond-to-boost-billabong-health-in-the-top-end/)
