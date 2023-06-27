@@ -7,18 +7,18 @@
     "text": "Our goals\n\n\n\nBuild upon the existing efforts to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences\nMake artificial intelligence resources more accessible for research and management, by developing user friendly applications and providing information and training\nBuild a bank of expert identified fish images which can be used to develop or improve AI models\nExplore approaches to combine existing fish species identification models to build larger, global models\nIncrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.\n\n\n\n\nWho are we\n\n\nFish AI Consortium involves a large group of people globally and is guided by a group of board members that includes world-renowned experts in the fields of artificial intelligence, fish population management, ecology and conservation.\n\n\n\n\n\n\n\n\nSupporters\n\n\n\n\n\n\n\nHow to contribute\n\n\n\nShare expertise on model development\nHelp with expert fish photo identification\nContribute photos of fish\nCollaborate on building global models\nHelp to test and improve the tools for user friendly applications\n… and any other ways you suggest. Just contact us.\n\n\n\n\n\n\n\n\n\nContact us\n\n\nIf you would like to learn more about our work or join the consortium, please contact us using the form below.\n\n\nName:  Email:  Message: \n\n           <input type=\"text\" name=\"_gotcha\" tabindex=\"-1\" autocomplete=\"off\" />"
   },
   {
-    "objectID": "who are we.html",
-    "href": "who are we.html",
-    "title": "Who are we",
-    "section": "",
-    "text": "(In progress)"
+    "objectID": "our_team.html#board-members",
+    "href": "our_team.html#board-members",
+    "title": "Our Team",
+    "section": "Board members",
+    "text": "Board members\n\n\n\n\n\n\n\n\n\n Amanda Barney  Teem Fish Monitoring\n\n\n\n\n\n\n\n\n\n\n\n Andrew J Jansen  Department of Climate Change, Energy, Environment and Water\n\n\n\n\n\n\n\n\n\n Asta Audzijonyte  University of Tasmania (Australia) & Nature Research Centre (Lithuania)\n\n\n ML models for citizen science and social media data, especially models for fish size determination\n\n\n\n\n\n\n\n\n\n Catarina Silva  University of Coimbra\n\n\n ML models for automatic identification of species and sizes from images\n\n\n\n\n\n\n\n\n\n\n\n Kim Friedman  FAO\n\n\n\n\n\n\n\n\n\n\n\n Lisa Kellogg  Virginia Institute of Marine Science\n\n\n\n\n\n\n\n\n\n\n\n Luyen Chou  GotOne Media LLC\n\n\n\n\n\n\n\n\n\n\n\n Nathaniel “Than” Hitt  U.S. Geological Survey Eastern Ecological Science Center\n\n\n\n\n\n\n\n\n\n\n\n Steve Munch  University of California, Santa Cruz"
   },
   {
-    "objectID": "our goals.html",
-    "href": "our goals.html",
-    "title": "Our goals",
-    "section": "",
-    "text": "Our specific goals are to:\n\nbuild upon the efforts of existing groups to expand coordination and collaboration, including resources, data sharing, general knowledge and experiences;\nmake artificial intelligence resources more accessible and useful for fish ecology research and for conservation practitioners by providing information and training resources such as workshops and webinars;\nbuild a bank of publicly available? fish images (newly collected data or from existing initiatives) which can be used to develop or improve AI models;\nexplore approaches (for example ensemble learning) to combine machine learning models to build global models (e.g. fish species identification, subspecies identification, species ecotypes, etc);\nincrease cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists, and conservation practitioners."
+    "objectID": "our_team.html#general-members",
+    "href": "our_team.html#general-members",
+    "title": "Our Team",
+    "section": "General members",
+    "text": "General members\n\n\n\n\n\n\n\n\n\n Ben Letcher  U.S. Geological Survey\n\n\n\n\n\n\n\n\n\n\n\n Dan Morris  Google AI for Nature and Society\n\n\n\n\n\n\n\n\n\n\n\n Eelke Folmer  Aeria\n\n\n\n\n\n\n\n\n\n\n\n Ercan Avsar  Technical University of Denmark\n\n\n\n\n\n\n\n\n\n\n\n Iñaki Quincoces  AZTI\n\n\n\n\n\n\n\n\n\n\n\n Jimmy Freese  Ai.Fish\n\n\n\n\n\n\n\n\n\n\n\n Justas Dainys  Nature Research Centre\n\n\n\n\n\n\n\n\n\n\n\n Mark Sudul  Archipelago\n\n\n\n\n\n\n\n\n\n\n\n Noel Clark  Colorado State University\n\n\n\n\n\n\n\n\n\n\n\n Raiana McKinney  The Pew Charitable Trusts\n\n\n\n\n\n\n\n\n\n\n\nSebastian Uhlmann  Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB)\n\n\n\n\n\n\n\n\n\n\n\n Thor Veen  Aeria\n\n\n\n\n\n\n\n\n\n\n\n Tim Sartwell  NOAA Fisheries\n\n\n\n\n\n\n\n\n\n\n\n Yoichiro Kanno  Colorado State University"
   },
   {
     "objectID": "resources.html",
@@ -26,13 +26,6 @@
     "title": "Resources",
     "section": "",
     "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "The first online consortium meeting will be held on June 30 (Friday) at 8am (East Australian time). If you are interested to join, contact us."
   },
   {
     "objectID": "resources.html#publicly-available-models",
@@ -49,62 +42,6 @@
     "text": "Training resources\nMachine learning based image collection, annotation and classification\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
   },
   {
-    "objectID": "resources.html#publications",
-    "href": "resources.html#publications",
-    "title": "Resources",
-    "section": "Publications",
-    "text": "Publications\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification (Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte) Sustainability 14 (21), 14324\nPreprint: A machine learning based image classification method to estimate fish sizes from images without a specified reference object (Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte) bioRxiv"
-  },
-  {
-    "objectID": "index.html#mailto",
-    "href": "index.html#mailto",
-    "title": "Fish AI Consortium",
-    "section": "mailto",
-    "text": "mailto\n\nName:  Email:  Message:"
-  },
-  {
-    "objectID": "index.html#test",
-    "href": "index.html#test",
-    "title": "Fish AI Consortium",
-    "section": "test",
-    "text": "test\n\nName:  Email:  Message: \n\n           <input type=\"text\" name=\"_gotcha\" tabindex=\"-1\" autocomplete=\"off\" />"
-  },
-  {
-    "objectID": "our_team.html",
-    "href": "our_team.html",
-    "title": "Our Team",
-    "section": "",
-    "text": "Catarina Silva is a…"
-  },
-  {
-    "objectID": "our_team.html#general-members",
-    "href": "our_team.html#general-members",
-    "title": "Our Team",
-    "section": "General members",
-    "text": "General members\n\n\n\n\n\n\n\n\n\n Ben Letcher  U.S. Geological Survey\n\n\n\n\n\n\n\n\n\n\n\n Dan Morris  Google AI for Nature and Society\n\n\n\n\n\n\n\n\n\n\n\n Eelke Folmer  Aeria\n\n\n\n\n\n\n\n\n\n\n\n Ercan Avsar  Technical University of Denmark\n\n\n\n\n\n\n\n\n\n\n\n Iñaki Quincoces  AZTI\n\n\n\n\n\n\n\n\n\n\n\n Jimmy Freese  Ai.Fish\n\n\n\n\n\n\n\n\n\n\n\n Justas Dainys  Nature Research Centre\n\n\n\n\n\n\n\n\n\n\n\n Mark Sudul  Archipelago\n\n\n\n\n\n\n\n\n\n\n\n Noel Clark  Colorado State University\n\n\n\n\n\n\n\n\n\n\n\n Raiana McKinney  The Pew Charitable Trusts\n\n\n\n\n\n\n\n\n\n\n\nSebastian Uhlmann  Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB)\n\n\n\n\n\n\n\n\n\n\n\n Thor Veen  Aeria\n\n\n\n\n\n\n\n\n\n\n\n Tim Sartwell  NOAA Fisheries\n\n\n\n\n\n\n\n\n\n\n\n Yoichiro Kanno  Colorado State University"
-  },
-  {
-    "objectID": "our_team.html#board-members",
-    "href": "our_team.html#board-members",
-    "title": "Our Team",
-    "section": "Board members",
-    "text": "Board members\n\n\n\n\n\n\n\n\n\n Amanda Barney  Teem Fish Monitoring\n\n\n\n\n\n\n\n\n\n\n\n Andrew J Jansen  Department of Climate Change, Energy, Environment and Water\n\n\n\n\n\n\n\n\n\n Asta Audzijonyte  University of Tasmania (Australia) & Nature Research Centre (Lithuania)\n\n\n ML models for citizen science and social media data, especially models for fish size determination\n\n\n\n\n\n\n\n\n\n Catarina Silva  University of Coimbra\n\n\n ML models for automatic identification of species and sizes from images\n\n\n\n\n\n\n\n\n\n\n\n Kim Friedman  FAO\n\n\n\n\n\n\n\n\n\n\n\n Lisa Kellogg  Virginia Institute of Marine Science\n\n\n\n\n\n\n\n\n\n\n\n Luyen Chou  GotOne Media LLC\n\n\n\n\n\n\n\n\n\n\n\n Nathaniel “Than” Hitt  U.S. Geological Survey Eastern Ecological Science Center\n\n\n\n\n\n\n\n\n\n\n\n Steve Munch  University of California, Santa Cruz"
-  },
-  {
-    "objectID": "our_team.html#first-column",
-    "href": "our_team.html#first-column",
-    "title": "Our Team",
-    "section": "First column",
-    "text": "First column"
-  },
-  {
-    "objectID": "our_team.html#second-column",
-    "href": "our_team.html#second-column",
-    "title": "Our Team",
-    "section": "Second column",
-    "text": "Second column\nAsta Audzijonyte\nCatarina Silva"
-  },
-  {
     "objectID": "resources.html#scientific-publications",
     "href": "resources.html#scientific-publications",
     "title": "Resources",
@@ -117,5 +54,12 @@
     "title": "Resources",
     "section": "Media and other popular science",
     "text": "Media and other popular science\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The first online consortium meeting will be held on June 30 (Friday) at 8am (East Australian time). If you are interested to join, contact us."
   }
 ]
