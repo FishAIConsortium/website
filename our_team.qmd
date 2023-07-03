@@ -59,7 +59,7 @@ ML models for citizen science and social media data, especially models for fish 
 <br/><br/>
 [Catarina Silva](https://catarinasilva.weebly.com)
 <br/><br/>
-University of Coimbra 
+University of Coimbra (Portugal)
 
 <br/><br/>
 ML models for automatic identification of species and sizes from images
@@ -230,16 +230,17 @@ AZTI
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
-
-| 
+![](images/photo_Jimmy_Freese.png){width=300}
 
 <br/><br/>
-Jimmy Freese
+[Jimmy Freese](https://www.ai.fish/)
 <br/><br/>
-Ai.Fish
+Ai.Fish (USA)
 
+<br/><br/>
+Ai.Fish is a Computer Vision and Artificial Intelligence company with significant ongoing R&D in data science, deep learning, convolutional neural networks and object detection and tracking to address problems in marine sustainability and conservation. 
 :::
+
 
 ::: {layout-ncol=3}
 
