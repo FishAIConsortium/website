@@ -65,6 +65,19 @@ University of Coimbra
 ML models for automatic identification of species and sizes from images
 :::
 
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+Kieran Hyder
+<br/><br/>
+CEFAS
+
+:::
+
 
 ::: {layout-ncol=3}
 
@@ -318,6 +331,19 @@ Aeria
 Tim Sartwell
 <br/><br/>
 NOAA Fisheries
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+Victor Anton
+<br/><br/>
+Wildlife.ai
 
 :::
 
