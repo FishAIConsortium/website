@@ -41,8 +41,7 @@ Agenda:
 
 <html>
     <body>
-        <p align="center"><iframe width="500" height="350" src="https://www.youtube.com/embed/lzLwnWqrtgA&ab_channel=Lydekaipaliepus">
-        </iframe></p>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lzLwnWqrtgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     </body>
 </html>
 
