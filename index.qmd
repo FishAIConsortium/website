@@ -45,7 +45,7 @@ and is guided by a group of board members that includes world-renowned experts i
   <img src="images/logo_PEW.png" width="40%">
 </a>
 <a href="https://www.mare-centre.pt/en">
-  <img src="images/logo_MARE.png" width="40%">
+  <img src="images/Mare.png" width="40%">
 </a>
 <a href="https://www.fct.pt/en/">
   <img src="images/logo_FCT.png" width="40%">
