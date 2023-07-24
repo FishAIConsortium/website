@@ -184,6 +184,21 @@ U.S. Geological Survey
 
 :::
 
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+Christian Skov
+<br/><br/>
+National Institute of Aquatic Resources, Denmark
+
+:::
+
+
 ::: {layout-ncol=3}
 
 ![](images/photo.png){width=300}
