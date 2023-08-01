@@ -14,14 +14,16 @@ about:
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_AmandaB.png){width=300}
 
 <br/><br/>
-Amanda Barney
+[Amanda Barney](https://teem.fish/)
 <br/><br/>
-Teem Fish Monitoring 
+Teem Fish Monitoring
 
-| 
+<br/><br/>
+Teem Fish Monitoring is a fisheries electronic monitoring technology company dedicated to bringing the best automation tools and efficiencies to our data collection and analysis processes. 
+
 
 :::
 
