@@ -171,7 +171,31 @@ Fishial.AI
 
 <br/><br/>
 
+::: {layout-ncol=3}
 
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+[Alexander Dungate](https://www.ondeck.fish/)
+<br/><br/>
+OnDeck Fisheries AI Inc.
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+Alyssa Marshell
+<br/><br/>
+University of Tasmania (Australia)
+
+:::
 
 ::: {layout-ncol=3}
 
@@ -279,6 +303,19 @@ Ai.Fish is a Computer Vision and Artificial Intelligence company with significan
 Justas Dainys
 <br/><br/>
 Nature Research Centre
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+| 
+
+<br/><br/>
+[Justin Chan](https://www.ondeck.fish/)
+<br/><br/>
+OnDeck Fisheries AI Inc.
 
 :::
 
