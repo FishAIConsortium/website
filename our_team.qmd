@@ -64,19 +64,20 @@ ML models for citizen science and social media data, especially models for fish 
 University of Coimbra & MARE (Portugal)
 
 <br/><br/>
-ML models for automatic identification of species and sizes from images
+ML models for automatic identification of species and sizes from images; multidisciplinary and innovative methods to fisheries research; marine population dynamics
 :::
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_KieranH.png){width=300}
 
 <br/><br/>
-Kieran Hyder
+[Kieran Hyder](https://www.cefas.co.uk/about-us/people/kieran-hyder/)
 <br/><br/>
-CEFAS
+CEFAS (UK)
 
-| 
+<br/><br/>
+Application of science to support policy and management of fisheries focusing on the social, economic, and biological impacts of marine recreational fisheries; novel approaches to support fisheries monitoring, modelling, assessment and management
 
 :::
 
@@ -186,14 +187,15 @@ OnDeck Fisheries AI Inc.
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
-
-| 
+![](images/photo_AlyssaM.png){width=300}
 
 <br/><br/>
 Alyssa Marshell
 <br/><br/>
 University of Tasmania (Australia)
+
+<br/><br/>
+AI for automatic identification of fish species and sizes from video and images; automate annual monitoring of fisheries species; increase length data available for length-based annual stock assessments
 
 :::
 
