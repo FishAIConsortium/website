@@ -125,15 +125,16 @@ GotOne Media LLC
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_ThanH.png){width=300}
 
 <br/><br/>
-Nathaniel "Than" Hitt
+[Nathaniel "Than" Hitt](https://www.usgs.gov/staff-profiles/nathaniel-hitt)
 <br/><br/>
 U.S. Geological Survey
 Eastern Ecological Science Center
 
-| 
+<br/><br/>
+Ecological applications of AI for fish biology in freshwater ecosystems
 
 :::
 
@@ -255,14 +256,15 @@ Aeria
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
-
-| 
+![](images/photo_ErcanA.png){width=300}
 
 <br/><br/>
-Ercan Avsar
+[Ercan Avsar](https://www.linkedin.com/in/ercan-av%C5%9Far-b6b97411a/)
 <br/><br/>
 Technical University of Denmark
+
+<br/><br/>
+Underwater video processing for automatic species recognition; edge computing and real-time object detection with deep learning models
 
 :::
 
