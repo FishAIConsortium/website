@@ -418,14 +418,15 @@ Wildlife.ai
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
-
-| 
+![](images/photo_YoichiroK.png){width=300}
 
 <br/><br/>
-Yoichiro Kanno
+[Yoichiro Kanno](https://sites.warnercnr.colostate.edu/kanno/)
 <br/><br/>
-Colorado State University
+Colorado State University, USA
+
+<br/><br/>
+I am a stream fish ecologist working on projects in USA and Japan
 
 :::
 
