@@ -44,7 +44,8 @@ Department of Climate Change, Energy, Environment and Water
 ![](images/photo_Asta.png){width=300}
 
 <br/><br/>
-[Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte)
+[Asta Audzijonyte](https://discover.utas.edu.au/Asta.Audzijonyte)  
+(co-founder)
 <br/><br/>
 University of Tasmania (Australia) & Nature Research Centre (Lithuania)
 
@@ -59,7 +60,8 @@ ML models for citizen science and social media data, especially models for fish 
 ![](images/photo_Catarina.png){width=300}
 
 <br/><br/>
-[Catarina Silva](https://catarinasilva.weebly.com)
+[Catarina Silva](https://catarinasilva.weebly.com)  
+   (co-founder)
 <br/><br/>
 University of Coimbra & MARE (Portugal)
 
