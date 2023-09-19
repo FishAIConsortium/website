@@ -4,10 +4,30 @@ about:
   template: solana
 ---
 
+![](images/FishAICons_logo.svg){fig-align="center" width="50%"}
+
 <p style="text-align: center; font-size: 20px">The Fish AI Consortium is a global network of individuals and organisations advancing artificial intelligence based image analysis to study fish population management, ecology, and conservation. We believe that AI has the potential to revolutionise the way we study, manage and protect fish populations in freshwater and marine ecosystems worldwide. By sharing resources, images, data and expertise, we aim to make a significant impact on the future of Earth’s aquatic ecosystems.
 </p>
+
 <br/><br/>
 
+_________________
+
+![](images/goals.svg){fig-align="center" width="8%"}
+
+<h1 style="text-align: center;">Our goals</h1>
+
+<p style="text-align: center; font-size: 20px">* Develop AI-powered tools that can accurately identify fish to species, measure fish and identify individual fish from photos and videos.
+
+* Expand the data available to fisheries managers and scientists by developing AI enhanced tools that allow image based data collection by recreational anglers, commercial fisheries, community scientists and researchers.
+
+* Make AI resources more accessible for research and management, by developing user friendly image analyses applications and providing information and training.
+
+* Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
+
+* Apply image based AI tools to address the challenges facing fish populations, such as overfishing, habitat loss and climate change.</p>
+
+<br/><br/>
 
 
 <html>
@@ -134,29 +154,6 @@ function showSlides() {
 
 </body>
 </html> 
-
-
-
-<br/><br/>
-
-_________________
-
-![](images/goals.svg){fig-align="center" width="8%"}
-
-<h1 style="text-align: center;">Our goals</h1>
-
-<p style="text-align: center; font-size: 20px">* Develop AI-powered tools that can accurately identify fish to species, measure fish and identify individual fish from photos and videos.
-
-* Expand the data available to fisheries managers and scientists by developing AI enhanced tools that allow image based data collection by recreational anglers, commercial fisheries, community scientists and researchers.
-
-* Make AI resources more accessible for research and management, by developing user friendly image analyses applications and providing information and training.
-
-* Increase cross-disciplinary collaboration among fish biologists, fisheries researchers, computer scientists and conservation practitioners.
-
-* Apply image based AI tools to address the challenges facing fish populations, such as overfishing, habitat loss and climate change.</p>
-
-<br/><br/>
-
 _________________
 
 ![](images/activities.svg){fig-align="center" width="8%"}
