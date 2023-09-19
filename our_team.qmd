@@ -143,14 +143,15 @@ Ecological applications of AI for fish biology in freshwater ecosystems
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_SteveM.png){width=300}
 
 <br/><br/>
-Steve Munch
+[Steve Munch](https://sbmunch.sites.ucsc.edu/)
 <br/><br/>
-University of California, Santa Cruz
+University of California, Santa Cruz, USA
 
-| 
+<br/><br/>
+I use nonlinear dynamics, optimal control, and machine learning to develop data-driven tools for ecosystem management
 
 :::
 
