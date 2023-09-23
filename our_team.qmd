@@ -114,14 +114,15 @@ Virginia Institute of Marine Science
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_LuyenC.png){width=300}
 
 <br/><br/>
-Luyen Chou
+[Luyen Chou](https://www.linkedin.com/in/luyen-chou-2647165/)
 <br/><br/>
-GotOne Media LLC
+GotOne fishing app
 
-| 
+<br/><br/>
+GotOne is a fishing log app that empowers recreational anglers with the data they need to catch more fish and conserve our fisheries
 
 :::
 
@@ -352,6 +353,20 @@ Colorado State University
 
 :::
 
+
+::: {layout-ncol=3}
+
+![](images/photo_PaulC.png){width=300}
+
+<br/><br/>
+[Paul Clerkin](pauljclerkin.com)
+<br/><br/>
+Virginia Institute of Marine Science, USA
+
+<br/><br/>
+I am a taxonomist exploring innovative ways to enhance identification tools and develop AI solutions to improve the accuracy of species identification and data collection for deep-sea sharks
+
+:::
 
 ::: {layout-ncol=3}
 
