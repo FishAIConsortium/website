@@ -29,14 +29,14 @@ Teem Fish Monitoring is a fisheries electronic monitoring technology company ded
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_AndrewJ.png){width=300}
 
 <br/><br/>
-Andrew J Jansen
+[Andrew J Jansen]()
 <br/><br/>
-Department of Climate Change, Energy, Environment and Water, USA
+Department of Climate Change, Energy, Environment and Water, Australia
 
-| 
+Focusing at the intersection of deep learning and ecology to develop wildlife monitoring solutions using a range of remote sensing technologies (e.g. drones, underwater cameras, multi-spectral sensors, IoT Edge, cloud computing)
 
 :::
 
