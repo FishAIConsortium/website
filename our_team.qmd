@@ -24,7 +24,6 @@ Teem Fish Monitoring, Canada
 <br/><br/>
 Teem Fish Monitoring is a fisheries electronic monitoring technology company dedicated to bringing the best automation tools and efficiencies to our data collection and analysis processes
 
-
 :::
 
 ::: {layout-ncol=3}
@@ -36,6 +35,7 @@ Teem Fish Monitoring is a fisheries electronic monitoring technology company ded
 <br/><br/>
 Department of Climate Change, Energy, Environment and Water, Australia
 
+<br/><br/>
 Focusing at the intersection of deep learning and ecology to develop wildlife monitoring solutions using a range of remote sensing technologies (e.g. drones, underwater cameras, multi-spectral sensors, IoT Edge, cloud computing)
 
 :::
@@ -67,6 +67,7 @@ University of Coimbra & MARE, Portugal
 
 <br/><br/>
 ML models for automatic identification of species and sizes from images; multidisciplinary and innovative methods to fisheries research; marine population dynamics
+
 :::
 
 ::: {layout-ncol=3}
