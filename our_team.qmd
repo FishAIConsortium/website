@@ -387,9 +387,35 @@ The Pew Charitable Trusts
 
 ![](images/photo.png){width=300}
 
+<br/><br/>
+Rod Connolly
+<br/><br/>
+Griffith University
+
+| 
+
+:::
+
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
 [Sean Simmons](https://www.anglersatlas.com/)
 <br/><br/>
 Angler's Atlas, Canada
+
+| 
+
+:::
+
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+Sebastian Lopez-Marcano
+<br/><br/>
+Griffith University
 
 | 
 
