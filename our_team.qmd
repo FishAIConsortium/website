@@ -301,6 +301,19 @@ Ai.Fish, USA
 Ai.Fish is a Computer Vision and Artificial Intelligence company with significant ongoing R&D in data science, deep learning, convolutional neural networks and object detection and tracking to address problems in marine sustainability and conservation. 
 :::
 
+::: {layout-ncol=3}
+
+![](images/photo_Jordan_Lynch.png){width=300}
+
+<br/><br/>
+[Jordan Lynch](https://www.linkedin.com/in/jordanlynchaq/)
+<br/><br/>
+Virginia Institute of Marine Science, USA
+
+<br/><br/>
+My interests lie in improving shellfish aquaculture production, quality, profitability, and environmental sustainability through applied research and workforce development.
+:::
+
 
 ::: {layout-ncol=3}
 
