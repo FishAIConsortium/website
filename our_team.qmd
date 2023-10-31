@@ -383,6 +383,19 @@ Colorado State University, USA
 
 :::
 
+::: {layout-ncol=3}
+
+![](images/photo.png){width=300}
+
+<br/><br/>
+Osamu Kishida
+<br/><br/>
+Hokkaido University, Japan
+
+| 
+
+:::
+
 
 ::: {layout-ncol=3}
 
