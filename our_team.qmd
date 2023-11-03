@@ -370,6 +370,22 @@ Archipelago
 
 :::
 
+
+::: {layout-ncol=3}
+
+![](images/photo_Michaela_Holubova.png){width=300}
+
+<br/><br/>
+[Michaela Holubová](https://www.hbu.cas.cz/en/staff/profil/752/?filter%5Bt%5D=vse_i_externi)
+<br/><br/>
+Biology Centre CAS, Czech Republic
+
+<br/><br/>
+Main focus of my interest is the behavioral ecology of freshwater fish via a non-invasive approach involving UVC.
+
+:::
+
+
 ::: {layout-ncol=3}
 
 ![](images/photo.png){width=300}
