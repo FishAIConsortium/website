@@ -47,11 +47,11 @@ The course uses freely available libraries and computing resources on Google Col
 
 A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. <span style="color:black;">2022.</span> *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
 
-*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. <span style="color:black;">2022.</span> *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)
+*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. <span style="color:black;"> 2022.</span> *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)
 
-Estimating catch rates in real time: Development of a deep learning based Nephrops (*Nephrops norvegicus*) counter for demersal trawl fisheries.<span style="color:black;">2023.</span> *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129852/full)
+Estimating catch rates in real time: Development of a deep learning based Nephrops (*Nephrops norvegicus*) counter for demersal trawl fisheries.<span style="color:black;"> 2023.</span> *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129852/full)
 
-
+Conserve the open media ecosystem! Legal and ethical considerations when using online repositories for AI training in ecological research.<span style="color:black;"> 2023.</span> *Julian Lilkendey*. [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14311)
 
 
 ## Media and other popular science 
