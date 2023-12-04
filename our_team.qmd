@@ -331,6 +331,22 @@ My interests lie in improving shellfish aquaculture production, quality, profita
 :::
 
 
+
+::: {layout-ncol=3}
+
+![](images/photo_Julian_Lilkendey.png){width=300}
+rs
+<br/><br/>
+[Julian Lilkendey](https://www.connectingcoastalcommunities.com/julian-lilkendey)
+<br/><br/>
+Auckland University of Technology, New Zealand
+
+<br/><br/>
+Harnessing AI to identify, track, and analyse the movements of fish, my research delves into their energetic and behavioural adaptations to challenging marine environments.
+
+:::
+
+
 ::: {layout-ncol=3}
 
 ![](images/photo.png){width=300}
