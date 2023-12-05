@@ -63,7 +63,7 @@ ML models for citizen science and social media data, especially models for fish 
 [Catarina Silva](https://catarinasilva.weebly.com)  
    (co-founder)
 <br/><br/>
-University of Coimbra & MARE, Portugal
+University of Coimbra, Portugal
 
 <br/><br/>
 ML models for automatic identification of species and sizes from images; multidisciplinary and innovative methods to fisheries research; marine population dynamics
