@@ -200,9 +200,9 @@ _________________
 <h1 style="text-align: center;">Supporters</h1> 
 
 
-2020 Pew Fellowship in Marine Conservation awarded to <strong>Asta Audzijonyte</strong>
+<SPAN STYLE="font-weight:bold">2020 Pew Fellowship in Marine Conservation</SPAN> awarded to Asta Audzijonyte.
 
-**Catarina Silva** is supported by the Portuguese Foundation for Science and Technology - FCT - under an Individual Call to Scientific Employment Stimulus (2022.01002.CEECIND)
+Catarina Silva is supported by the <SPAN STYLE="font-weight:bold">Portuguese Foundation for Science and Technology - FCT -</SPAN> under an Individual Call to Scientific Employment Stimulus (2022.01002.CEECIND).
 
 <p style="text-align:center;">
 
