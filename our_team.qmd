@@ -335,7 +335,7 @@ My interests lie in improving shellfish aquaculture production, quality, profita
 ::: {layout-ncol=3}
 
 ![](images/photo_Julian_Lilkendey.png){width=300}
-rs
+
 <br/><br/>
 [Julian Lilkendey](https://www.connectingcoastalcommunities.com/julian-lilkendey)
 <br/><br/>
@@ -349,14 +349,15 @@ Harnessing AI to identify, track, and analyse the movements of fish, my research
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_Justas.png){width=300}
 
 <br/><br/>
-Justas Dainys
+[Justas Dainys](https://gamtostyrimai.lt/en/darbuotojai/justas-dainys/)
 <br/><br/>
 Nature Research Centre, Lithuania
 
-| 
+<br/><br/>
+My main research interests are related to the study of eel population status, biological indicators and spawning migrations using telemetry methods, as well as the application of novel and innovative methods for assessing the impact of recreational fishing on fish populations.
 
 :::
 
