@@ -460,14 +460,15 @@ The Pew Charitable Trusts
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_rod_connolly.png){width=300}
 
 <br/><br/>
-Rod Connolly
+[Rod Connolly](https://www.globalwetlandsproject.org/)
 <br/><br/>
 Griffith University
 
-| 
+<br/><br/>
+I am the Director of FishID and the Global Wetlands Project. We develop AI tools and coordinated monitoring systems for aquatic ecosystems.
 
 :::
 
@@ -486,13 +487,14 @@ Angler's Atlas, Canada
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_sebastianlopez-marcano.png){width=300}
 
-Sebastian Lopez-Marcano
+[Sebastian Lopez-Marcano](https://github.com/slopezmarcano)
 <br/><br/>
 Griffith University
 
-| 
+<br/><br/>
+I am a data scientist developing AI solutions for AgTech, conservation and education.
 
 :::
 
