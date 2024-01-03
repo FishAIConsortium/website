@@ -501,13 +501,14 @@ I am a data scientist developing AI solutions for AgTech, conservation and educa
 
 ::: {layout-ncol=3}
 
-![](images/photo.png){width=300}
+![](images/photo_Sebastian%20Uhlmann.png){width=300}
 
-Sebastian Uhlmann
+[Sebastian Uhlmann](https://drsnapper.net/)
 <br/><br/>
 Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB) 
 
-| 
+<br/><br/>
+I am a fisheries biologist with an interest in bycatch, discards, fish welfare, post-release survival and hook-less fishing by means of underwater camera only.
 
 :::
 
