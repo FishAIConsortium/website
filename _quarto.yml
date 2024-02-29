@@ -12,6 +12,8 @@ website:
         text: Resources
       - href: our_team.qmd
         text: Our Team
+      - href: online_seminars.qmd
+        text: Online Seminars
 
 format:
   html:
