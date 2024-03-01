@@ -19,3 +19,5 @@ Presenter: Professor Rod Connolly, [FishID](https://fishid.org)  (Director)
 The application of automation using underwater computer vision is revolutionising fisheries science. Our use of automated data extraction on robust and inexpensive camera systems is providing a step-change in efficiency for monitoring fish. Working collaboratively with fisheries managers and conservation NGOs, we demonstrate how automation overcomes barriers to reliable monitoring in situations that until now have been difficult, dangerous, or prohibitively expensive. We highlight examples of stock assessments for benthic fisheries and surveys of fish abundance and size on restored habitats as a basis for environmental accounting.
 
 ![](images/seminar_FishID.png){fig-align="center" width="50%"}
+
+FishID automated identification and counting of fish on restored shellfish reef 
