@@ -4,11 +4,15 @@ title: "Online Seminars"
 
 In our monthly online seminar series we aim to show our achievements, brainstorm, share challenges and foster collaborations. 
 
-These seminars will be recorded and available here online.
+These seminars will be recorded and available online.
 
-## March 21, 2024
+<br/><br/>
 
-Title: Rapid improvements in fisheries monitoring with underwater computer vision
+
+### Rapid improvements in fisheries monitoring with underwater computer vision
+
+<span style="color:black;">March 21, 2024</span> 
+
 
 Presenter: Professor Rod Connolly, [FishID](https://fishid.org)  (Director) 
 
