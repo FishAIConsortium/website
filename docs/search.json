@@ -89,5 +89,26 @@
     "title": "Resources",
     "section": "Media and other popular science",
     "text": "Media and other popular science\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
+  },
+  {
+    "objectID": "meetings_seminars.html",
+    "href": "meetings_seminars.html",
+    "title": "Meetings and Seminars",
+    "section": "",
+    "text": "The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).\nWe discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:\n\nAndrew Jansen (Australian Government’s Supervising Scientist Branch): BRUVNet dataset and models for fish ID\nDan Morris (Google): lessons from related domains and suggestions for the consortium\nNathaniel “Than” Hitt (US Geological Survey): Individual fish identification models\nCatarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos\n\nWe also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it? c) please provide materials (links, publications, your photo, your description, etc) for the website and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link. d) how to reach groups in Asia, Africa and South America? e) other topics"
+  },
+  {
+    "objectID": "meetings_seminars.html#first-meeting",
+    "href": "meetings_seminars.html#first-meeting",
+    "title": "Meetings and Seminars",
+    "section": "",
+    "text": "The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).\nWe discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:\n\nAndrew Jansen (Australian Government’s Supervising Scientist Branch): BRUVNet dataset and models for fish ID\nDan Morris (Google): lessons from related domains and suggestions for the consortium\nNathaniel “Than” Hitt (US Geological Survey): Individual fish identification models\nCatarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos\n\nWe also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it? c) please provide materials (links, publications, your photo, your description, etc) for the website and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link. d) how to reach groups in Asia, Africa and South America? e) other topics"
+  },
+  {
+    "objectID": "meetings_seminars.html#online-seminars",
+    "href": "meetings_seminars.html#online-seminars",
+    "title": "Meetings and Seminars",
+    "section": "Online seminars",
+    "text": "Online seminars\nIn our monthly online seminar series we aim to show our achievements, brainstorm, share challenges and foster collaborations.\nThese seminars will be recorded and available online.\n\n\nRapid improvements in fisheries monitoring with underwater computer vision\nMarch 21, 2024\nPresenter: Professor Rod Connolly, FishID (Director)\nThe application of automation using underwater computer vision is revolutionising fisheries science. Our use of automated data extraction on robust and inexpensive camera systems is providing a step-change in efficiency for monitoring fish. Working collaboratively with fisheries managers and conservation NGOs, we demonstrate how automation overcomes barriers to reliable monitoring in situations that until now have been difficult, dangerous, or prohibitively expensive. We highlight examples of stock assessments for benthic fisheries and surveys of fish abundance and size on restored habitats as a basis for environmental accounting.\n\n\n\n\n\nFishID automated identification and counting of fish on restored shellfish reef"
   }
 ]
