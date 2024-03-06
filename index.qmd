@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Fish AI Consortium"
 about: 
   template: solana
 ---
