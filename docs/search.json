@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "meetings_seminars.html",
+    "href": "meetings_seminars.html",
+    "title": "Meetings and Seminars",
+    "section": "",
+    "text": "The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).\nWe discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:\n\nAndrew Jansen (Australian Government’s Supervising Scientist Branch): BRUVNet dataset and models for fish ID\nDan Morris (Google): lessons from related domains and suggestions for the consortium\nNathaniel “Than” Hitt (US Geological Survey): Individual fish identification models\nCatarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos\n\nWe also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it? c) please provide materials (links, publications, your photo, your description, etc) for the website and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link. d) how to reach groups in Asia, Africa and South America? e) other topics"
+  },
+  {
+    "objectID": "meetings_seminars.html#first-meeting",
+    "href": "meetings_seminars.html#first-meeting",
+    "title": "Meetings and Seminars",
+    "section": "",
+    "text": "The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).\nWe discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:\n\nAndrew Jansen (Australian Government’s Supervising Scientist Branch): BRUVNet dataset and models for fish ID\nDan Morris (Google): lessons from related domains and suggestions for the consortium\nNathaniel “Than” Hitt (US Geological Survey): Individual fish identification models\nCatarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos\n\nWe also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it? c) please provide materials (links, publications, your photo, your description, etc) for the website and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link. d) how to reach groups in Asia, Africa and South America? e) other topics"
+  },
+  {
+    "objectID": "meetings_seminars.html#online-seminars",
+    "href": "meetings_seminars.html#online-seminars",
+    "title": "Meetings and Seminars",
+    "section": "Online seminars",
+    "text": "Online seminars\nIn our monthly online seminar series we aim to show our achievements, brainstorm, share challenges and foster collaborations.\nThese seminars will be recorded and available online.\n\n\nRapid improvements in fisheries monitoring with underwater computer vision\nMarch 21, 2024\nPresenter: Professor Rod Connolly, FishID (Director)\nThe application of automation using underwater computer vision is revolutionising fisheries science. Our use of automated data extraction on robust and inexpensive camera systems is providing a step-change in efficiency for monitoring fish. Working collaboratively with fisheries managers and conservation NGOs, we demonstrate how automation overcomes barriers to reliable monitoring in situations that until now have been difficult, dangerous, or prohibitively expensive. We highlight examples of stock assessments for benthic fisheries and surveys of fish abundance and size on restored habitats as a basis for environmental accounting.\n\n\n\n\n\nFishID automated identification and counting of fish on restored shellfish reef"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries"
+  },
+  {
+    "objectID": "resources.html#publicly-available-datasets",
+    "href": "resources.html#publicly-available-datasets",
+    "title": "Resources",
+    "section": "",
+    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries"
+  },
+  {
+    "objectID": "resources.html#publicly-available-models",
+    "href": "resources.html#publicly-available-models",
+    "title": "Resources",
+    "section": "Publicly available models",
+    "text": "Publicly available models\nMegaFishDetector v0\nGeneral purpose detector of fish shapes in images\nKakaduFishAI\nMulti-class detector for Australian fish"
+  },
+  {
+    "objectID": "resources.html#training-resources",
+    "href": "resources.html#training-resources",
+    "title": "Resources",
+    "section": "Training resources",
+    "text": "Training resources\nMachine learning based image collection, annotation and classification\nIn this online course you will learn about:\n\nconcepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)\nhow to pre-process and pre-annotate images to accelerate your ML projects\nhow to apply data augmentation techniques\nhow to build an image classification model with your own or example data\n\nThe course uses freely available libraries and computing resources on Google Colaboratory"
+  },
+  {
+    "objectID": "resources.html#scientific-publications",
+    "href": "resources.html#scientific-publications",
+    "title": "Resources",
+    "section": "Scientific publications",
+    "text": "Scientific publications\nA Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022. Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte. Sustainability 14 (21), 14324\nPreprint: A machine learning based image classification method to estimate fish sizes from images without a specified reference object.  2022. Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte. bioRxiv\nEstimating catch rates in real time: Development of a deep learning based Nephrops (Nephrops norvegicus) counter for demersal trawl fisheries. 2023. Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag. Frontiers in Marine Science\nConserve the open media ecosystem! Legal and ethical considerations when using online repositories for AI training in ecological research. 2023. Julian Lilkendey. Ecology Letters"
+  },
+  {
+    "objectID": "resources.html#media-and-other-popular-science",
+    "href": "resources.html#media-and-other-popular-science",
+    "title": "Resources",
+    "section": "Media and other popular science",
+    "text": "Media and other popular science\nStory about the collaboration between Microsoft and Australian Government’s Supervising Scientist Branch to build the baited remote underwter video image dataset from images at the Kakadu National park - Citizen scientists, AI and cloud bond to boost billabong health in the Top End"
+  },
+  {
+    "objectID": "our_team.html#board-members",
+    "href": "our_team.html#board-members",
+    "title": "Our Team",
+    "section": "Board members",
+    "text": "Board members\n\n\n\n\n\n\n\n\n\n Amanda Barney  Teem Fish Monitoring, Canada\n\n\n Teem Fish Monitoring is a fisheries electronic monitoring technology company dedicated to bringing the best automation tools and efficiencies to our data collection and analysis processes\n\n\n\n\n\n\n\n\n\n\n\n Andrew J Jansen  Department of Climate Change, Energy, Environment and Water, Australia\n\n\n Focusing at the intersection of deep learning and ecology to develop wildlife monitoring solutions using a range of remote sensing technologies (e.g. drones, underwater cameras, multi-spectral sensors, IoT Edge, cloud computing)\n\n\n\n\n\n\n\n\n\n\n\n Asta Audzijonyte\n(co-founder)  University of Tasmania, Australia & Nature Research Centre, Lithuania\n\n\n ML models for citizen science and social media data, especially models for fish size determination\n\n\n\n\n\n\n\n\n\n\n\n Catarina Silva\n(co-founder)  University of Coimbra, Portugal\n\n\n ML models for automatic identification of species and sizes from images; multidisciplinary and innovative methods to fisheries research; marine population dynamics\n\n\n\n\n\n\n\n\n\n\n\n Kieran Hyder  CEFAS, UK\n\n\n Application of science to support policy and management of fisheries focusing on the social, economic, and biological impacts of marine recreational fisheries; novel approaches to support fisheries monitoring, modelling, assessment and management\n\n\n\n\n\n\n\n\n\n\n\n Kim Friedman  FAO, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Lisa Kellogg  Virginia Institute of Marine Science, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Luyen Chou  GotOne fishing app, USA\n\n\n GotOne is a fishing log app that empowers recreational anglers with the data they need to catch more fish and conserve our fisheries\n\n\n\n\n\n\n\n\n\n\n\n Nathaniel “Than” Hitt  U.S. Geological Survey Eastern Ecological Science Center, USA\n\n\n Ecological applications of AI for fish biology in freshwater ecosystems\n\n\n\n\n\n\n\n\n\n\n\n Steve Munch  University of California, Santa Cruz, USA\n\n\n I use nonlinear dynamics, optimal control, and machine learning to develop data-driven tools for ecosystem management\n\n\n\n\n\n\n\n\n\n\n\n Tom Wye  Fishial.AI, USA"
+  },
+  {
+    "objectID": "our_team.html#general-members",
+    "href": "our_team.html#general-members",
+    "title": "Our Team",
+    "section": "General members",
+    "text": "General members\n\n\n\n\n\n\n\n\n\n Alexander Dungate  OnDeck Fisheries AI Inc.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Alyssa Marshell  University of Tasmania, Australia\n\n\n AI for automatic identification of fish species and sizes from video and images; automate annual monitoring of fisheries species; increase length data available for length-based annual stock assessments\n\n\n\n\n\n\n\n\n\n\n\n Barbara Block  Stanford University, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Ben Letcher  U.S. Geological Survey, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Christian Skov  National Institute of Aquatic Resources, Denmark\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Dan Morris  Google AI for Nature and Society, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Eelke Folmer  Aeria\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Ercan Avsar  Technical University of Denmark, Denmark\n\n\n Underwater video processing for automatic species recognition; edge computing and real-time object detection with deep learning models\n\n\n\n\n\n\n\n\n\n\n\n Iñaki Quincoces  AZTI, Spain\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Jimmy Freese  Ai.Fish, USA\n\n\n Ai.Fish is a Computer Vision and Artificial Intelligence company with significant ongoing R&D in data science, deep learning, convolutional neural networks and object detection and tracking to address problems in marine sustainability and conservation.\n\n\n\n\n\n\n\n\n\n\n\n Jordan Lynch  Virginia Institute of Marine Science, USA\n\n\n My interests lie in improving shellfish aquaculture production, quality, profitability, and environmental sustainability through applied research and workforce development.\n\n\n\n\n\n\n\n\n\n\n\n Julian Lilkendey  Auckland University of Technology, New Zealand\n\n\n Harnessing AI to identify, track, and analyse the movements of fish, my research delves into their energetic and behavioural adaptations to challenging marine environments.\n\n\n\n\n\n\n\n\n\n\n\n Justas Dainys  Nature Research Centre, Lithuania\n\n\n My main research interests are related to the study of eel population status, biological indicators and spawning migrations using telemetry methods, as well as the application of novel and innovative methods for assessing the impact of recreational fishing on fish populations.\n\n\n\n\n\n\n\n\n\n\n\n Justin Chan  OnDeck Fisheries AI Inc.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Mark Sudul  Archipelago\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Michaela Holubová  Biology Centre CAS, Czech Republic\n\n\n Main focus of my interest is the behavioral ecology of freshwater fish via a non-invasive approach involving UVC.\n\n\n\n\n\n\n\n\n\n\n\n Noel Clark  Colorado State University, USA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Osamu Kishida  Hokkaido University, Japan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Paul Clerkin  Virginia Institute of Marine Science, USA\n\n\n I am a taxonomist exploring innovative ways to enhance identification tools and develop AI solutions to improve the accuracy of species identification and data collection for deep-sea sharks\n\n\n\n\n\n\n\n\n\n\n\n Raiana McKinney  The Pew Charitable Trusts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Rod Connolly  Griffith University\n\n\n I am the Director of FishID and the Global Wetlands Project. We develop AI tools and coordinated monitoring systems for aquatic ecosystems.\n\n\n\n\n\n\n\n\n\n\n\nSean Simmons  Angler’s Atlas, Canada\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSebastian Lopez-Marcano  Griffith University\n\n\n I am a data scientist developing AI solutions for AgTech, conservation and education.\n\n\n\n\n\n\n\n\n\n\n\nSebastian Uhlmann  Dr Snapper, Flanders Research Institute for Agriculture, Fisheries and Food (ILVO), Vrije Universiteit Brussels (VUB)\n\n\n I am a fisheries biologist with an interest in bycatch, discards, fish welfare, post-release survival and hook-less fishing by means of underwater camera only.\n\n\n\n\n\n\n\n\n\n\n\nSophie Pitois  CEFAS, UK\n\n\n I’m a Zooplankton ecologist focussing on optimizing imaging tools for automated monitoring; in particular the use of AI methods for real-time data collection and visualisation\n\n\n\n\n\n\n\n\n\n\n\n Thor Veen  Aeria\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Tim Sartwell  NOAA Fisheries\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Victor Anton  Wildlife.ai, New Zealand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Yoichiro Kanno  Colorado State University, USA\n\n\n I am a stream fish ecologist working on projects in USA and Japan"
+  }
+]
