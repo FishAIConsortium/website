@@ -53,6 +53,8 @@ Estimating catch rates in real time: Development of a deep learning based Nephro
 
 Conserve the open media ecosystem! Legal and ethical considerations when using online repositories for AI training in ecological research.<span style="color:black;"> 2023.</span> *Julian Lilkendey*. [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14311)
 
+Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo-video and AI-driven 3D tracking. <span style="color:black;"> 2024.</span> *Julian Lilkendey, Cyril Barrelet, Jingjing Zhang, Michael Meares, Houssam Larbi, Gérard Subsol, Marc Chaumont, Armagan Sabetian*. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11070)
+
 
 ## Media and other popular science 
 
