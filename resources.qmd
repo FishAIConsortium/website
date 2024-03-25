@@ -45,15 +45,21 @@ The course uses freely available libraries and computing resources on Google Col
 
 ## Scientific publications
 
-A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. <span style="color:black;">2022.</span> *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324)
+<span style="color:black;">A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022 *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324).</span>
 
-*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. <span style="color:black;"> 2022.</span> *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)
+<span style="color:black;">*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. 2022. *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)</span>
 
-Estimating catch rates in real time: Development of a deep learning based Nephrops (*Nephrops norvegicus*) counter for demersal trawl fisheries.<span style="color:black;"> 2023.</span> *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129852/full)
+<span style="color:black;">Estimating catch rates in real time: Development of a deep learning based Nephrops (*Nephrops norvegicus*) counter for demersal trawl fisheries. 2023. *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2023.1129852/full)</span>
 
-Conserve the open media ecosystem! Legal and ethical considerations when using online repositories for AI training in ecological research.<span style="color:black;"> 2023.</span> *Julian Lilkendey*. [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14311)
+<strong style="color:black;">Conserve the open media ecosystem! Legal and ethical considerations when using online repositories for AI training in ecological research. 2023. *Julian Lilkendey*. [Ecology Letters](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14311)</strong>
 
-Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo-video and AI-driven 3D tracking. <span style="color:black;"> 2024.</span> *Julian Lilkendey, Cyril Barrelet, Jingjing Zhang, Michael Meares, Houssam Larbi, Gérard Subsol, Marc Chaumont, Armagan Sabetian*. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11070)
+>This publication contributes to the discussion on the responsible use of media from online repositories for AI training. It offers best practices along the FAIR principles to help researchers use these resources ethically and legally. Particularly valuable is the comprehensive overview of Creative Commons (CC) licences and their implications for the use of CC licensed media in AI training, enabling researchers to understand and comply with the nuanced requirements of different licence types. 
+
+ 
+
+<span style="color:black;">Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo-video and AI-driven 3D tracking.  2024. *Julian Lilkendey, Cyril Barrelet, Jingjing Zhang, Michael Meares, Houssam Larbi, Gérard Subsol, Marc Chaumont, Armagan Sabetian*. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11070)</span>
+
+>The publication details an advanced methodological framework for fish detection, identification, and 3D tracking. Utilizing YOLOv5 for object detection, iNaturalist data for species identification, and DeepSORT for multi-object tracking, it describes and presents code for precise classification and tracking from stereo-video. Additionally, it includes code for data optimization and calculating rates of energy expenditure from fish movement. This integration of AI with conventional field methods enhances our understanding of energy dynamics in aquatic ecosystems.
 
 
 ## Media and other popular science 
