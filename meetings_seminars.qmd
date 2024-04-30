@@ -2,28 +2,6 @@
 title: "Meetings and Seminars"
 ---
 
-## First meeting 
-
-The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).  
-We discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:
-
-- Andrew Jansen (Australian Government’s Supervising Scientist Branch): [BRUVNet dataset](https://www.bruvnet.org/) and models for fish ID
-- Dan Morris (Google): lessons from related domains and suggestions for the consortium
-- Nathaniel "Than" Hitt (US Geological Survey): Individual fish identification models
-- Catarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos
-
-
-We also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals
-    b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it?
-    c) please provide materials (links, publications, your photo, your description, etc) for the [website](https://fishaiconsortium.github.io/website/our_team.html) and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link.
-    d) how to reach groups in Asia, Africa and South America?
-    e) other topics
-
-<html>
-    <body>
-        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lzLwnWqrtgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-    </body>
-</html>
 
 
 ## Online seminars
@@ -33,6 +11,16 @@ In our monthly online seminar series we aim to show our achievements, brainstorm
 These seminars will be recorded and available online.
 
 <br/><br/>
+
+### Update on the Fishial.AI project - Image Management, Species AI Model and Benchmark dataset
+
+<span style="color:black;">May 3, 2024</span> 
+
+Presenter: Tom Wye, [Fishial](https://www.fishial.ai/) 
+
+Over the last three years the not for profit, Fishial.AI project has been developing a photo image content management system to assist in annotating fish species images and building a species segmentation and classification AI model in the recreational fish species space for anglers and divers. The model can currently identify 294 fish species.
+
+![](images/seminar_2.png){fig-align="center" width="50%"}
 
 
 ### Rapid improvements in fisheries monitoring with underwater computer vision
@@ -74,3 +62,27 @@ FishID automated identification and counting of fish on restored shellfish reef
         crossorigin="anonymous"
         async>
 </script>
+
+
+## First meeting 
+
+The first online consortium meeting was held on June 30 (Friday) 2023 at 8am (East Australian time).  
+We discussed the main priorities and ideas for the consortium and had brief presentations from some consortium members about their work and interest, including:
+
+- Andrew Jansen (Australian Government’s Supervising Scientist Branch): [BRUVNet dataset](https://www.bruvnet.org/) and models for fish ID
+- Dan Morris (Google): lessons from related domains and suggestions for the consortium
+- Nathaniel "Than" Hitt (US Geological Survey): Individual fish identification models
+- Catarina Silva (University of Coimbra, Portugal): Models for fish size classification from citizen science and social media photos
+
+
+We also had a brief discussion on introducing specific goals and key priorities (building an image bank, testing models, combining models, expert fish identification in images, funding application) and people willing to help with them or lead them. Next meetings could be specifically targeted to just one of these goals
+    b) computing resources that consortium could use. Is there any cloud computing available, can we apply for it?
+    c) please provide materials (links, publications, your photo, your description, etc) for the [website](https://fishaiconsortium.github.io/website/our_team.html) and let us know if you would like to help with building it. We have a dedicated domain which will soon replace the GitHub link.
+    d) how to reach groups in Asia, Africa and South America?
+    e) other topics
+
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lzLwnWqrtgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    </body>
+</html>
