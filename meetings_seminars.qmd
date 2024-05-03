@@ -20,13 +20,23 @@ Presenter: Tom Wye, [Fishial](https://www.fishial.ai/)
 
 Over the last three years the not for profit, Fishial.AI project has been developing a photo image content management system to assist in annotating fish species images and building a species segmentation and classification AI model in the recreational fish species space for anglers and divers. The model can currently identify 294 fish species.
 
-![](images/seminar_2.png){fig-align="center" width="50%"}
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ShyHoXMpMkc?si=TdzYfK1Dcw3qBxaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+    </body>
+</html>
 
+Slides: 
+
+<a href="pdfs/Fishial_AI_Overview_5_3_2024"> Overview of the Fishial project</a>
+
+<a href="pdfs/Fishial_AI_models_5_3_2024.pdf">Fish species identification model</a>
+
+<br/><br/>
 
 ### Rapid improvements in fisheries monitoring with underwater computer vision
 
 <span style="color:black;">March 21, 2024</span> 
-
 
 Presenter: Professor Rod Connolly, [FishID](https://fishid.org)  (Director) 
 
@@ -35,9 +45,6 @@ The application of automation using underwater computer vision is revolutionisin
 ![](images/seminar_FishID.png){fig-align="center" width="50%"}
 
 FishID automated identification and counting of fish on restored shellfish reef 
-
-
-
 
 <html>
     <body>
@@ -63,6 +70,7 @@ FishID automated identification and counting of fish on restored shellfish reef
         async>
 </script>
 
+<br/><br/>
 
 ## First meeting 
 
