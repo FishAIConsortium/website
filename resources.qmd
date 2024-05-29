@@ -1,10 +1,10 @@
 ---
-title: "Resources"
+title: " "
 ---
 
 ## Publicly available datasets
 
-[*NOAA Puget Sound Nearshore Fish 2017-2018*](https://lila.science/datasets/noaa-puget-sound-nearshore-fish)
+[NOAA Puget Sound Nearshore Fish 2017-2018](https://lila.science/datasets/noaa-puget-sound-nearshore-fish)
 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.
 
 [List of Marine/freshwater images](https://lila.science/otherdatasets#images-marine)
@@ -45,6 +45,13 @@ The course uses freely available libraries and computing resources on Google Col
 
 ## Scientific publications
 
+<span style="color:black;">Edge computing based real-time *Nephrops* (*Nephrops norvegicus*) catch estimation in demersal trawls using object detection models.  2024. *Ercan Avsar, Jordan P. Feekings, Ludvig Ahm Krag *. [Scientific Reports](https://www.nature.com/articles/s41598-024-60255-8)</span>
+
+<span style="color:black;">Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo-video and AI-driven 3D tracking.  2024. *Julian Lilkendey, Cyril Barrelet, Jingjing Zhang, Michael Meares, Houssam Larbi, Gérard Subsol, Marc Chaumont, Armagan Sabetian*. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11070)</span>
+
+>The publication details an advanced methodological framework for fish detection, identification, and 3D tracking. Utilizing YOLOv5 for object detection, iNaturalist data for species identification, and DeepSORT for multi-object tracking, it describes and presents code for precise classification and tracking from stereo-video. Additionally, it includes code for data optimization and calculating rates of energy expenditure from fish movement. This integration of AI with conventional field methods enhances our understanding of energy dynamics in aquatic ecosystems.
+
+
 <span style="color:black;">A Scalable Open-Source Framework for Machine Learning-Based Image Collection, Annotation and Classification: A Case Study for Automatic Fish Species Identification. 2022 *Catarina NS Silva, Justas Dainys, Sean Simmons, Vincentas Vienožinskis, Asta Audzijonyte*. [Sustainability 14 (21), 14324](https://www.mdpi.com/2071-1050/14/21/14324).</span>
 
 <span style="color:black;">*Preprint:* A machine learning based image classification method to estimate fish sizes from images without a specified reference object. 2022. *Catarina Nunes Soares Silva, Justas Dainys, Sean Simmons, Asta Audzijonyte*. [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.27.521854.full.pdf)</span>
@@ -56,10 +63,6 @@ The course uses freely available libraries and computing resources on Google Col
 >This publication contributes to the discussion on the responsible use of media from online repositories for AI training. It offers best practices along the FAIR principles to help researchers use these resources ethically and legally. Particularly valuable is the comprehensive overview of Creative Commons (CC) licences and their implications for the use of CC licensed media in AI training, enabling researchers to understand and comply with the nuanced requirements of different licence types. 
 
  
-
-<span style="color:black;">Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo-video and AI-driven 3D tracking.  2024. *Julian Lilkendey, Cyril Barrelet, Jingjing Zhang, Michael Meares, Houssam Larbi, Gérard Subsol, Marc Chaumont, Armagan Sabetian*. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11070)</span>
-
->The publication details an advanced methodological framework for fish detection, identification, and 3D tracking. Utilizing YOLOv5 for object detection, iNaturalist data for species identification, and DeepSORT for multi-object tracking, it describes and presents code for precise classification and tracking from stereo-video. Additionally, it includes code for data optimization and calculating rates of energy expenditure from fish movement. This integration of AI with conventional field methods enhances our understanding of energy dynamics in aquatic ecosystems.
 
 
 ## Media and other popular science 
