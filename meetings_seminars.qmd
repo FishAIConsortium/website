@@ -12,6 +12,26 @@ These seminars will be recorded and available online.
 
 <br/><br/>
 
+### Turning fish and benthic annotations into State of the Environment reporting
+
+<span style="color:black;">June 18, 2024</span> 
+
+Presenters: Brooke Gibbons and Tim Langlois, [Global Archive](https://globalarchive.org/) 
+
+Brooke and Tim will be talking about their work with GlobalArchive to provide a portal for the discovery and sharing of stereo-video image annotation data of both marine fish and habitats.
+
+They will present a set of open-access workflows and web app to help with the QAQC of fish biogeographic, abundance and length data and give examples of how this has benefited recent continental synthesis and national environmental reporting around Australia.
+
+Some pre-reading for the seminar:
+[Stereo-video workflows for fish and benthic ecologists](https://globalarchivemanual.github.io/CheckEM/index.html)
+
+<br/><br/>
+
+![](images/seminar_3.png){fig-align="center" width="80%"}
+
+
+<br/><br/>
+
 ### Update on the Fishial.AI project - Image Management, Species AI Model and Benchmark dataset
 
 <span style="color:black;">May 3, 2024</span> 
