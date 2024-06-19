@@ -18,7 +18,7 @@ These seminars will be recorded and available online.
 
 Presenters: Brooke Gibbons and Tim Langlois, [Global Archive](https://globalarchive.org/) 
 
-Brooke and Tim will be talking about their work with GlobalArchive to provide a portal for the discovery and sharing of stereo-video image annotation data of both marine fish and habitats.
+Brooke and Tim will be talking about their work with Global Archive to provide a portal for the discovery and sharing of stereo-video image annotation data of both marine fish and habitats.
 
 They will present a set of open-access workflows and web app to help with the QAQC of fish biogeographic, abundance and length data and give examples of how this has benefited recent continental synthesis and national environmental reporting around Australia.
 
@@ -29,6 +29,14 @@ Some pre-reading for the seminar:
 
 ![](images/seminar_3.png){fig-align="center" width="80%"}
 
+
+<br/><br/>
+
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fBu2o3hQ08c?si=q0Q-9xKqDddZnAmd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+    </body>
+</html>
 
 <br/><br/>
 
