@@ -132,13 +132,12 @@ GotOne is a fishing log app that empowers recreational anglers with the data the
 ![](images/photo_ThanH.png){width=300}
 
 <br/><br/>
-[Nathaniel "Than" Hitt](https://www.usgs.gov/staff-profiles/nathaniel-hitt)
+[Nathaniel "Than" Hitt](https://wvrivers.org/)
 <br/><br/>
-U.S. Geological Survey
-Eastern Ecological Science Center, USA
+West Virginia Rivers Coalition, USA
 
 <br/><br/>
-Ecological applications of AI for fish biology in freshwater ecosystems
+Freshwater biologist with expertise in fisheries, water quality, climate change, and open-science strategies
 
 :::
 
