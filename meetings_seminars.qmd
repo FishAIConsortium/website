@@ -12,6 +12,26 @@ These seminars will be recorded and available online.
 
 <br/><br/>
 
+### SharkTrack: a AI-enhanced software for 20x faster shark and ray underwater video analysis
+
+<span style="color:black;">October 4, 2024</span> 
+
+Presenter: Filippo Varini, [Imperial College London](https://www.fvarini.com/sharktrack ) 
+
+We present a computer vision pipeline that accurately processes underwater videos of sharks and rays of any species and location. We share how this pipeline can be reproduced to train new underwater fish classifiers faster.
+
+
+<br/><br/>
+
+![](images/seminar_4.jpg){fig-align="center" width="80%"}
+
+
+<br/><br/>
+
+
+
+<br/><br/>
+
 ### Turning fish and benthic annotations into State of the Environment reporting
 
 <span style="color:black;">June 18, 2024</span> 
