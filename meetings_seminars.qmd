@@ -10,6 +10,32 @@ In our monthly online seminar series we aim to show our achievements, brainstorm
 
 These seminars will be recorded and available online.
 
+
+
+<br/><br/>
+
+### Mapping Energy Seascapes with AI-Powered 3D Multi-Object Tracking
+
+<span style="color:black;">October 30, 2024</span> 
+
+Presenter: Julian Lilkendey, Leibniz Centre for Tropical Marine Research 
+
+AI-driven species recognition and tracking is advancing at breakneck speed. However, we are still lacking good training data for data-poor tropical regions and reliable location-invariant realtime 3D tracking methodologies. In my talk, I will focus on leveraging stereo-video to capture 3D fish trajectories, followed by AI-driven multi-object tracking to decode fish energy expenditure and behaviour. Specifically, we employed DeepSORT to track multiple fish in complex coral reef environments. To overcome training data scarcity, we integrated iNaturalist media, which provided diverse, real-world examples. During this process, I established best practices for incorporating community-science media into AI training, ensuring data quality and ethical use. This fusion of stereo-video, AI, and the use of photos identified by community experts enables precise and reliable calculation of metrics like field metabolic rates, and eventually the development of novel ethodiversity scores. These advancements contribute to the derivation of Energy Seascapes - models highlighting the energetic burden to life in certain habitats.
+
+
+<br/><br/>
+
+<html>
+    <body>
+        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/NqciBUZBiog?si=80lgg2tw4TkEGac_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+    </body>
+</html>
+
+<br/><br/>
+
+
+
+
 <br/><br/>
 
 ### SharkTrack: a AI-enhanced software for 20x faster shark and ray underwater video analysis
