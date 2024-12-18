@@ -11,14 +11,14 @@
     "href": "resources.html",
     "title": "Fish AI Consortium",
     "section": "",
-    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries"
+    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries\nFishnet Open Images Database - The v1.0.0 Fishne dataset contains 549,209 bounding boxes for 34 object classes (composed entirely of fish species and humans) on 143,818 images collected from 96 unique cameras with an average of 4 bounding boxes per image."
   },
   {
     "objectID": "resources.html#publicly-available-datasets",
     "href": "resources.html#publicly-available-datasets",
     "title": "Fish AI Consortium",
     "section": "",
-    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries"
+    "text": "NOAA Puget Sound Nearshore Fish 2017-2018 - 77,739 images sampled from video collected on and around shellfish aquaculture farms in an estuary in the Northeast Pacific; 67,990 objects (fish and crustaceans) annotated on 30,384 images.\nList of Marine/freshwater images\nBRUVNet - An open-sourced dataset from baited remote underwater video of freshwater and marine fish images used for fisheries monitoring and research\nDeep learning based Nephrops counter for demersal trawl fisheries\nFishnet Open Images Database - The v1.0.0 Fishne dataset contains 549,209 bounding boxes for 34 object classes (composed entirely of fish species and humans) on 143,818 images collected from 96 unique cameras with an average of 4 bounding boxes per image."
   },
   {
     "objectID": "resources.html#publicly-available-models",
